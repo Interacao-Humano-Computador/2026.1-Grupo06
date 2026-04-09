@@ -14,10 +14,11 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 plugins:
+  - search
   - glightbox
 
 site_name: Grupo 06
@@ -27,7 +28,6 @@ nav:
       - Apresentação 1: apresentacao/apresentacao1.md
   - Atas:
       - Ata 1: atas/IHC_Ata_01.md
-
   - Planejamento:
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
@@ -35,11 +35,11 @@ nav:
       - Sites avaliados: planejamento/sites-avaliados.md
       - Site escolhido: planejamento/site-escolhido.md
       - Processo design: planejamento/processo-design.md
-
   - Verificação:
       - Verificação do Grupo:
           - Etapa 1:
               - Planejamento da Verificação da Etapa 1: verificacao/grupo/etapa1/planejamento-verificacao-etapa1-grupo.md
+
 theme:
   name: material
   features:
@@ -47,27 +47,4 @@ theme:
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.top
-    - navigation.footer
-  palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      toggle:
-        icon: material/circle-half-full
-        name: Mudar para o modo escuro
-
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      toggle:
-        icon: material/circle-half-full
-        name: Mudar para o modo claro
-
-  language: pt-BR
-  favicon: assets/bilheteria.png
-  logo: assets/bilheteria.png
-
-extra:
-  version:
-    provider: mike
-
-extra_css: [stylesheets/extra.css]
+    - navigat
