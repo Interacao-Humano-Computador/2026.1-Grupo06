@@ -1,0 +1,73 @@
+repo_url: https://github.com/Interacao-Humano-Computador/2026.1-Grupo06
+repo_name: 2026.1-Grupo06
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+plugins:
+  - glightbox
+
+site_name: Grupo 06
+nav:
+  - Home: index.md
+  - Apresentações:
+      - Apresentação 1: apresentacao/apresentacao1.md
+  - Atas:
+      - Ata 1: atas/IHC_Ata_01.md
+
+  - Planejamento:
+      - Cronograma: planejamento/cronograma.md
+      - Ferramentas: planejamento/ferramentas.md
+      - Metodologia: planejamento/metodologia.md
+      - Sites avaliados: planejamento/sites-avaliados.md
+      - Site escolhido: planejamento/site-escolhido.md
+      - Processo design: planejamento/processo-design.md
+
+  - Verificação:
+      - Verificação do Grupo:
+          - Etapa 1:
+              - Planejamento da Verificação da Etapa 1: verificacao/grupo/etapa1/planejamento-verificacao-etapa1-grupo.md
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: claro
+      toggle:
+        icon: material/circle-half-full
+        name: Mudar para o modo escuro
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/circle-half-full
+        name: Mudar para o modo claro
+
+  language: pt-BR
+  favicon: assets/bilheteria.png
+  logo: assets/bilheteria.png
+
+extra:
+  version:
+    provider: mike
+
+extra_css: [stylesheets/extra.css]
