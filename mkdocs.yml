@@ -51,7 +51,7 @@ theme:
     - navigation.footer
   palette:
     - media: "(prefers-color-scheme: light)"
-      scheme: claro
+      scheme: default
       toggle:
         icon: material/circle-half-full
         name: Mudar para o modo escuro
