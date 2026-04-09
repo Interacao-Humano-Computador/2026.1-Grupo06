@@ -8,7 +8,7 @@
 
 ## Sobre o projeto
 
-Esta página é dedicada à documentação de todos os artefatos produzidos pelo grupo 06 na disciplina de Interação Humano-Computador (IHC) da Faculdade do Gama da Universidade de Brasília (FGA-Unb) durante o 1º semestre de 2026. O objetivo do projeto é fazer a avaliação de IHC do site [SITE](https://www.site.com).
+Esta página é dedicada à documentação de todos os artefatos produzidos pelo grupo 06 na disciplina de Interação Humano-Computador (IHC) da Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE-Unb) durante o 1º semestre de 2026. O objetivo do projeto é fazer a avaliação de IHC do site [SITE](https://www.site.com).
 
 ## Equipe
 
@@ -53,4 +53,4 @@ Esta página é dedicada à documentação de todos os artefatos produzidos pelo
 
 | Versão | Data       | Descrição                                | Autor(es)                                                                                       | Revisor(es)                                                                                                                                    |
 | ------ | ---------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| `1.0`  | 09/04/2026 | Criação da git page                      | [Ígor Veras ](https://github.com/igorvdaniel) |  |
+| `1.0`  | 09/04/2026 | Criação da git pages                    | [Ígor Veras ](https://github.com/igorvdaniel) |  |
