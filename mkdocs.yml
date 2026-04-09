@@ -24,9 +24,9 @@ site_name: Grupo 06
 nav:
   - Home: index.md
   - Apresentações:
-      - Apresentação 1: apresentacao/apresentacao1.md
+      - Apresentação 1: index.md
   - Atas:
-      - Ata 1: atas/IHC_Ata_01.md
+      - Ata 1: index.md
   - Planejamento:
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
