@@ -10,7 +10,7 @@ O objetivo deste documento é apresentar o planejamento para a verificação dos
 
 ## Metodologia
 
-A metodologia escolhida para esta verificação é a inspeção. Desenvolvida originalmente para códigos de software por Fagan na IBM em 1976, essa técnica consiste em uma revisão formal dos artefatos produzidos a fim de se encontrar defeitos. Essa revisão é realizada através de uma checklist onde se tem uma lista com os defeitos mais comuns que deverão ser identificados, analisados e classificados. Vale ressaltar que a leitura do artefato não deve ser feita pelo autor principal do mesmo.
+A metodologia escolhida para esta verificação é.
 
 ### Participantes
 
