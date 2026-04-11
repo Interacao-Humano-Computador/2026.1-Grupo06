@@ -2,7 +2,7 @@
 
 ## Descrição 
 
-A metodologia do projeto é 
+A meto
 ## Histórico de Versões
 
 Versão  | Data | Descrição | Autor(es) | Revisor(es)
