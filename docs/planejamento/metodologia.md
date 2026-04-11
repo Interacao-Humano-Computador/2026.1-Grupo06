@@ -113,11 +113,10 @@ Essa abordagem contribui para a construção de sistemas mais eficazes, acessív
 
 ## Histórico de Versões
 
-Versão  | Data | Descrição | Autor(es) | Revisor(es)
--------- | ------ | ------ | ---------- | ----------
-| `1.0`  | 09/04/2026 | Criação da página de metodologia | [ João Guilherme]() |  |
+Versão | Data       | Descrição                        | Autor(es)                              | Revisor(es)
+------ | ---------- | -------------------------------- | ----------------------------------     | ------------
+1.0    | 09/04/2026 | Criação da página de metodologia | [João Guilherme Santana de Oliveira]() | -
 
----
 
 ## Bibliografia
 
