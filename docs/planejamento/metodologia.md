@@ -2,7 +2,7 @@
 
 ## Descrição 
 
-A meto
+A metologia
 ## Histórico de Versões
 
 Versão  | Data | Descrição | Autor(es) | Revisor(es)
