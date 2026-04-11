@@ -10,7 +10,7 @@ O objetivo deste documento é apresentar o planejamento para a verificação dos
 
 ## Metodologia
 
-A metodologia escolhida para esta verificação é.
+A metodologia escolhida para esta verificação é a inspeção. Desenvolvida originalmente para códigos de software por Fagan na IBM em 1976, essa técnica consiste em uma revisão formal dos artefatos produzidos a fim de se encontrar defeitos. Essa revisão é realizada através de uma checklist onde se tem uma lista com os defeitos mais comuns que deverão ser identificados, analisados e classificados. Vale ressaltar que a leitura do artefato não deve ser feita pelo autor principal do mesmo.
 
 ### Participantes
 
@@ -20,8 +20,8 @@ Cada participante será responsável por verificar um ou mais artefatos da entre
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Participantes da Inspeção</p></font>
 
-| Artefato                    | Autor(es)                                                                                        | Responsável pela Verificação                      |
-| --------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------- |
+| Artefato                    | Autor(es)                                                                                        | Responsável pela Verificação                                                                                                    |
+| --------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
 | Cronograma                  | [Ígor Veras](https://github.com/igorvdaniel) e [Felipe Henrique](https://github.com/fhenrique77) | [Felipe Henrique](https://github.com/fhenrique77), [João Guilherme](https://github.com/JoaoGSantana10) |
 | Ferramentas                 | [Ígor Veras](https://github.com/igorvdaniel)                                                     | [Felipe Henrique](https://github.com/fhenrique77), [João Guilherme](https://github.com/JoaoGSantana10) |
 | Processo de Design          | Matheus                                                                                          | [Felipe Henrique](https://github.com/fhenrique77), [João Guilherme](https://github.com/JoaoGSantana10) |
@@ -54,8 +54,8 @@ A verificação será realizada no período de 09 de abril de 2026 até dia 11 d
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Cronograma das Atividades</p></font>
 
-| Data       | Descrição                                                      | Responsável                                       |
-| ---------- | -------------------------------------------------------------- | ------------------------------------------------- |
+| Data       | Descrição                                                      | Responsável                                                                                                                     |
+| ---------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | 09/04/2026 | Verificação do artefato Cronograma.                            | [Felipe Henrique](https://github.com/fhenrique77), [João Guilherme](https://github.com/JoaoGSantana10) |
 | 09/04/2026 | Verificação do artefato Ferramentas.                           | [Felipe Henrique](https://github.com/fhenrique77), [João Guilherme](https://github.com/JoaoGSantana10) |
 | 10/04/2026 | Verificação do artefato Processo de Design.                    | [Felipe Henrique](https://github.com/fhenrique77), [João Guilherme](https://github.com/JoaoGSantana10) |
@@ -132,29 +132,29 @@ A Tabela 6 a seguir apresenta a checklist referente ao artefato Processo de Desi
 
 | ID | Descrição                                                                                                | Avaliação | Observações |
 | -- | -------------------------------------------------------------------------------------------------------- | :-------: | ----------- |
-| 20 | O processo de design adotado está claramente identificado (ex.: Mayhew, Estrela, Ciclo de Vida Simples)? |           |             |
+| 20 | O processo de design adotado está claramente identificado e outros processos são apresentados para comparação (ex.: Processo Simples, Estrela, Mayhew)? |           |             |
 | 21 | A escolha do ciclo de vida foi justificada?                                                              |           |             |
 | 22 | O ciclo de vida escolhido tem suas etapas detalhadas?                                                    |           |             |
 | 23 | A forma como será executado o ciclo de vida é detalhada?                                                 |           |             |
 | 24 | O ciclo de vida selecionado é condizente com o escopo do projeto?                                        |           |             |
-| 25 | Há representação visual (diagrama/figura) do processo de design escolhido?                               |           |             |
+| 25 | Há representação visual (diagrama/figura) para cada processo de design apresentado (Processo Simples, Estrela e Mayhew)? |           |             |
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/fhenrique77">Felipe Henrique</a>, 2026.</p></font>
 
 ### Metodologia
 
-A Tabela 7 a seguir apresenta a checklist referente ao artefato Metodologia.
+A Tabela 7 a seguir apresenta a checklist referente ao artefato Metodologia, construída com base no conteúdo do artefato produzido pelo grupo.
 
 <font size="3"><p style="text-align: center"><b>Tabela 7</b> - Checklist para o artefato Metodologia</p></font>
 
-| ID | Descrição                                                                                   | Avaliação | Observações |
-| -- | ------------------------------------------------------------------------------------------- | :-------: | ----------- |
-| 26 | A metodologia de desenvolvimento adotada pelo grupo está identificada (ex.: Scrum, Kanban)? |           |             |
-| 27 | A escolha da metodologia é justificada em relação ao contexto do projeto?                   |           |             |
-| 28 | As políticas de branch, commit e pull request estão descritas?                              |           |             |
-| 29 | A frequência e o formato das reuniões do grupo estão documentados?                          |           |             |
-| 30 | Os canais de comunicação utilizados pela equipe estão identificados?                        |           |             |
-| 31 | Há descrição de como as tarefas são distribuídas entre os membros do grupo?                 |           |             |
+| ID | Descrição                                                                                                    | Avaliação | Observações |
+| -- | ------------------------------------------------------------------------------------------------------------ | :-------: | ----------- |
+| 26 | A abordagem metodológica adotada (ex.: Design Centrado no Usuário) está claramente identificada e descrita?  |           |             |
+| 27 | A escolha da metodologia é justificada em relação ao contexto e aos objetivos do projeto?                    |           |             |
+| 28 | O modelo iterativo e incremental adotado está explicado, com suas etapas descritas?                          |           |             |
+| 29 | As etapas da metodologia (análise, requisitos, projeto, prototipação, avaliação, iteração) estão detalhadas? |           |             |
+| 30 | Os métodos de avaliação previstos (ex.: avaliação heurística, teste de usabilidade) estão identificados?     |           |             |
+| 31 | O artefato destaca a importância do envolvimento dos usuários ao longo do processo?                          |           |             |
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/fhenrique77">Felipe Henrique</a>, 2026.</p></font>
 
@@ -200,7 +200,7 @@ A Tabela 9 a seguir apresenta a checklist referente ao artefato Site Escolhido, 
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição            | Autor(es)                                         | Revisor(es) |
-| ------ | ---------- | -------------------- | ------------------------------------------------- | ----------- |
-| `1.0`  | 09/04/2026 | Criação da página    | [Ígor Veras](https://github.com/igorvdaniel)      |             |
-| `1.1`  | 10/04/2026 | Lista de verificação | [Felipe Henrique](https://github.com/fhenrique77) |             |
+| Versão | Data       | Descrição                          | Autor(es)                                         | Revisor(es) |
+| ------ | ---------- | ---------------------------------- | ------------------------------------------------- | ----------- |
+| `1.0`  | 09/04/2026 | Criação da página                  | [Ígor Veras](https://github.com/igorvdaniel)      |             |
+| `1.1`  | 10/04/2026 | Lista de verificação               | [Felipe Henrique](https://github.com/fhenrique77) |             |
