@@ -204,4 +204,4 @@ A Tabela 9 a seguir apresenta a checklist referente ao artefato Site Escolhido, 
 | ------ | ---------- | ---------------------------------- | ------------------------------------------------- | ----------- |
 | `1.0`  | 09/04/2026 | Criação da página                  | [Ígor Veras](https://github.com/igorvdaniel)      |             |
 | `1.1`  | 10/04/2026 | Lista de verificação               | [Felipe Henrique](https://github.com/fhenrique77) |             |
-| `1.2`  | 11/04/2026 | Correção da metodologia e checklist | [Felipe Henrique](https://github.com/fhenrique77) |             |
+
