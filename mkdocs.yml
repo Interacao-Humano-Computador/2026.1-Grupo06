@@ -10,6 +10,8 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
+  - tables
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
