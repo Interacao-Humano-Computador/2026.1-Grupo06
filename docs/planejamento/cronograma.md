@@ -239,8 +239,8 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 ## Referências Bibliográficas
 
-> SALES, André Barros de. Ambientação, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2022. Disponível em: <<https://aprender3.unb.br/pluginfile.php/3335958/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf>. Acesso em 09 de abril de 2026.
-> SALES, André Barros de. Ambientação, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2022. Disponível em: <<https://aprender3.unb.br/pluginfile.php/3335958/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf>. Acesso em 09 de abril de 2026.
+> SALES, André Barros de. Ambientação, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2026. Disponível em: <<https://aprender3.unb.br/pluginfile.php/3335948/mod_resource/content/61/Plano_de_Ensino%20FIHC%20012026%20Turma%2003%20v2.pdf>. Acesso em 09 de abril de 2026.
+> SALES, André Barros de. Ambientação, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2026. Disponível em: <<https://aprender3.unb.br/pluginfile.php/3335948/mod_resource/content/61/Plano_de_Ensino%20FIHC%20012026%20Turma%2003%20v2.pdf>. Acesso em 09 de abril de 2026.
 
 ## Bibliografia
 
