@@ -37,15 +37,15 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 | Atividade                         | Período de desenvolvimento   | Responsáveis       | Revisão                      | Revisores        |
 | --------------------------------- | ---------------------------- | ------------------ | ---------------------------- | ---------------- |
-| Selecionar site                   | Início: 07/04 <br>Fim: 10/04 | Todos              | Início: 10/04 <br>Fim: 10/04 | Todos            |
-| Elaborar Lista de Verificação     | Início: 07/04 <br>Fim: 10/04 | Todos              | Início: 10/04 <br>Fim: 10/04 | Todos            |
+| Selecionar site                   | Início: 07/04 <br>Fim: 11/04 | Todos              | Início: 12/04 <br>Fim: 12/04 | Todos            |
+| Elaborar Lista de Verificação     | Início: 07/04 <br>Fim: 10/04 | Todos              | Início: 11/04 <br>Fim: 11/04 | Todos            |
 | Selecionar ferramentas do projeto | Início: 09/04 <br>Fim: 09/04 | Ígor               | Início: 09/04 <br>Fim: 10/04 |                  |
-| Realização do cronograma          | Início: 09/04 <br>Fim: 10/04 | Ígor e Felipe      | Início: 10/04 <br>Fim: 11/04 |                  |
+| Realização do cronograma          | Início: 09/04 <br>Fim: 12/04 | Ígor e Felipe      | Início: 10/04 <br>Fim: 11/04 |                  |
 | Documentar Processo de Design     | Início: 09/04 <br>Fim: 11/04 | Matheus            | Início: 11/04 <br>Fim: 11/04 |                  |
-| Documentar Metodologia            | Início: 09/04 <br>Fim: 10/04 | João               | Início: 11/04 <br>Fim: 11/04 |                  |
+| Documentar Metodologia            | Início: 09/04 <br>Fim: 11/04 | João               | Início: 11/04 <br>Fim: 11/04 |                  |
 | Documentar Equipe                 | Início: 09/04 <br>Fim: 09/04 | Ígor               | Início: 09/04 <br>Fim: 10/04 |                  |
 | Implementar Git Page              | Início: 09/04 <br>Fim: 12/04 | Todos              | Início: 12/04 <br>Fim: 12/04 | Todos            |
-| Documentar Lista de Verificação   | Início: 10/04 <br>Fim: 11/04 | Felipe             | Início: 11/04 <br>Fim: 11/04 | Felipe           |
+| Documentar Lista de Verificação   | Início: 10/04 <br>Fim: 12/04 | Felipe             | Início: 12/04 <br>Fim: 12/04 | Felipe           |
 | Documentar sites avaliados e escolhido | Início: 10/04 <br>Fim: 11/04 | Giulia        | Início: 11/04 <br>Fim: 12/04 | Giulia           |
 | Gravar apresentação               | Início: 12/04 <br>Fim: 12/04 | Todos              | Início: 12/04 <br>Fim: 12/04 | Todos            |
 | Correção pós apresentação         | Início: 15/04 <br>Fim: 15/04 | Todos              | Início: 16/04 <br>Fim: 16/04 | Todos            |
