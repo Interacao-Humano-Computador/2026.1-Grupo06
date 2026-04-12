@@ -6,7 +6,7 @@ Os processos de design de IHC são ciclos iterativos que envolvem três atividad
 
 ## Processos
 
-### Processo Simples
+### 1. Processo Simples
 - Descrição: É um modelo que organiza o design em quatro etapas básicas: identificar necessidades e definir requisitos, (re)design, construir uma versão interativa e avaliar. É um processo altamente iterativo que foca na criação de protótipos para que o usuário possa participar ativamente da avaliação
 
 - Vantagens: Proporciona agilidade e velocidade, sendo ideal para equipes experientes que já possuem intuição de design consolidada e não precisam de guias prescritivos
@@ -16,7 +16,7 @@ Os processos de design de IHC são ciclos iterativos que envolvem três atividad
 #### Ciclo
 ![Imagem Processo simples](../assets/ModeloSimplesIHC.png)
 
-### Ciclo de vida Estrela
+### 2. Ciclo de vida Estrela
 - Descrição: Este modelo coloca a avaliação como ponto central, conectando as outras cinco atividades: análise de tarefas/usuários, especificação de requisitos, projeto conceitual, prototipação e implementação
 - Vantagens: Oferece extrema flexibilidade, permitindo que o designer inicie por qualquer atividade dependendo do estágio de desenvolvimento do artefato. Garante a qualidade contínua, pois exige que cada etapa passe obrigatoriamente pela avaliação central antes continuar
 
@@ -25,7 +25,7 @@ Os processos de design de IHC são ciclos iterativos que envolvem três atividad
 #### Ciclo
 ![Imagem Processo Estrela](../assets/CicloEstrelaIHC.png)
 
-### Ciclo de vida para a engenharia de usabilidade (Mayhew)
+### 3. Ciclo de vida para a engenharia de usabilidade (Mayhew)
 - Descrição: Propõe uma visão holística, dividida em três fases principais: Análise de requisitos, design/avaliação/desenvolvimento e instalação. O design é estruturado em três níveis de detalhe: Modelo conceitual, padrões de design e design detalhado
 
 - Vantagens: É um roteiro seguro para iniciantes, oferecendo alto detalhamento de forma a evitar que etapas importantes sejam esquecidas e auxiliando na rastreabilidade. Facilita o gerenciamento da complexidade ao tratar uma parte do problema por vez em diferentes níveis
@@ -40,11 +40,12 @@ Os processos de design de IHC são ciclos iterativos que envolvem três atividad
 A escolha pelo modelo de Mayhew justifica-se pelo fato de o grupo ser iniciante no planejamento de avaliação de IHC. A estrutura altamente detalhada e prescritiva de Mayhew ajudará a garantir que a análise de requisitos e as metas de usabilidade sejam verificadas de forma sistemática em três níveis de design, reduzindo o risco de falhas por falta de experiência
 
 ## Referências Bibliográficas
-> <a id="REF1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> <a id="REF1" href="#anchor_1">1.</a>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
+Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1
 
 
 ## Histórico de Versão
 
 | Versão |    Data    |                Descrição                 |                    Autor(es)                     |                 Revisor(es)                  |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------- |
-| `1.0`  | 09/04/2026 | Criação da página de Processo de Design. | [Matheus Pinheiro]() | [...]() |
+| `1.0`  | 10/04/2026 | Criação da página de Processo de Design. | [Matheus Pinheiro]() | [...]() |
