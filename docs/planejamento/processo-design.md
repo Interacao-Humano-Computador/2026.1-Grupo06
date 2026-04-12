@@ -26,7 +26,7 @@ Os processos de design de IHC são ciclos iterativos que envolvem três atividad
 ![Imagem Processo Estrela](../assets/CicloEstrelaIHC.png)
 
 ### 3. Ciclo de vida para a engenharia de usabilidade (Mayhew)
-- Descrição: Propõe uma visão holística, dividida em três fases principais: Análise de requisitos, design/avaliação/desenvolvimento e instalação. O design é estruturado em três níveis de detalhe: Modelo conceitual, padrões de design e design detalhado
+- Descrição: Propõe uma visão holística, dividida em três fases principais: Análise de requisitos, design, avaliação e desenvolvimento (que é estruturado em três níveis de detalhe: Modelo conceitual, padrões de design e design detalhado) e instalação.
 
 - Vantagens: É um roteiro seguro para iniciantes, oferecendo alto detalhamento de forma a evitar que etapas importantes sejam esquecidas e auxiliando na rastreabilidade. Facilita o gerenciamento da complexidade ao tratar uma parte do problema por vez em diferentes níveis
 
@@ -48,4 +48,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 | Versão |    Data    |                Descrição                 |                    Autor(es)                     |                 Revisor(es)                  |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------- |
-| `1.0`  | 10/04/2026 | Criação da página de Processo de Design. | [Matheus Pinheiro]() | [Ígor Veras](https://github.com/igorvdaniel) |
+| `1.0`  | 10/04/2026 | Criação da página de Processo de Design. | [Matheus Pinheiro](https://github.com/matheus-06) | [Ígor Veras](https://github.com/igorvdaniel) |
