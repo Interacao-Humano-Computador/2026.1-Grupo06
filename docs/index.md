@@ -2,13 +2,13 @@
 
 <font size="2"><p style="text-align: center">Figura 1: Logo Site.</p></font>
 
-<p align="center"><img style="border: 2px solid white; border-radius: 117px" img src="assets/bilheteria.png" width = 40%></p>
+<p align="center"><img style="border: 2px solid white; border-radius: 117px" img src="assets/logogdf.png" width = 40%></p>
 
-<font size="2"><p style="text-align: center">Fonte: [Site](https://www.site.com).</p></font>
+<font size="2"><p style="text-align: center">Fonte: [GDF](https://www.df.gov.br/simbolos/).</p></font>
 
 ## Sobre o projeto
 
-Esta página é dedicada à documentação de todos os artefatos produzidos pelo grupo 06 na disciplina de Interação Humano-Computador (IHC) da Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE-Unb) durante o 1º semestre de 2026. O objetivo do projeto é fazer a avaliação de IHC do site [SITE](https://www.site.com).
+Esta página é dedicada à documentação de todos os artefatos produzidos pelo grupo 06 na disciplina de Interação Humano-Computador (IHC) da Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE-Unb) durante o 1º semestre de 2026. O objetivo do projeto é fazer a avaliação de IHC do site [Serviços de Matrícula DF](https://www.educacao.df.gov.br/carta-de-servicos-matricula).
 
 ## Equipe
 
