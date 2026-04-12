@@ -11,18 +11,18 @@
 **Tabela 1** - Ferramentas Utilizadas no Projeto
 
 | Ícone | Ferramenta | Finalidade |
-|:---:|:---|:---|
-| ![Logo do GitHub](../assets/ferramentas/github.png#only-light){: .skip-lightbox style="height:100px;width:100px"}![Logo do GitHub](../assets/ferramentas/github-e.png#only-dark){: .skip-lightbox style="height:100px;width:100px"} | GitHub | Organizar, versionar e documentar artefatos produzidos para o projeto.[^1] |
-| ![Logo do Microsoft Teams](../assets/ferramentas/teams.png){: style="height:87px;width:100px"} | Microsoft Teams | Realizações de reuniões e gravações de apresentações.[^2] |
-| ![Logo do Figma](../assets/ferramentas/figma.png){: style="height:94px;width:63px"} | Figma | Produção de artefatos gráficos, modelos e protótipos de baixa e alta fidelidade.[^3] |
-| ![Logo do MkDocs](../assets/ferramentas/mkdocs.png) | MkDocs | Criação das páginas de documentação.[^4] |
-| ![Logo do Visual Studio Code](../assets/ferramentas/vscode.png){: style="height:85px;width:85px"} | Visual Studio Code | Edição dos arquivos de documentação.[^5] |
-| ![Logo do WhatsApp](../assets/ferramentas/whatsapp.png){: style="height:85px;width:85px"} | WhatsApp | Utilizado como principal canal de comunicação.[^6] |
-| ![Logo do Youtube](../assets/ferramentas/youtube.png){: style="height:85px;width:95px"} | YouTube | Hospedagem de vídeos produzidos.[^7] |
-| ![Logo do Google Planilhas](../assets/ferramentas/gsheets.png){: style="height:94px;width:72px"} | Google Planilhas | Criação de planilhas relacionadas ao cronograma e horários.[^8] |
-| ![Logo do Google Docs](../assets/ferramentas/gdocs.png){: style="height:96px;width:96px"} | Google Docs | Criação e edição de tabelas e arquivos.[^9] |
-| ![Logo do Google Drive](../assets/ferramentas/gdrive.png){: style="height:90px;width:90px"} | Google Drive | Compartilhamento de arquivos.[^10] |
-| ![Logo do Wave](../assets/ferramentas/wavelogo.png){: style="height:90px;width:140px"} | WAVE | Testar acessibilidade de aplicações web.[^11] |
+|:-----:|:-----------|:-----------|
+| <img src="../assets/ferramentas/github.png#only-light" class="skip-lightbox" style="height:100px;width:100px" /><img src="../assets/ferramentas/github-e.png#only-dark" class="skip-lightbox" style="height:100px;width:100px" /> | GitHub | Organizar, versionar e documentar artefatos produzidos para o projeto.<sup>1</sup> |
+| <img src="../assets/ferramentas/teams.png" style="height:87px;width:100px" /> | Microsoft Teams | Realizações de reuniões e gravações de apresentações.<sup>2</sup> |
+| <img src="../assets/ferramentas/figma.png" style="height:94px;width:63px" /> | Figma | Produção de artefatos gráficos, modelos e protótipos de baixa e alta fidelidade.<sup>3</sup> |
+| <img src="../assets/ferramentas/mkdocs.png" /> | MkDocs | Criação das páginas de documentação.<sup>4</sup> |
+| <img src="../assets/ferramentas/vscode.png" style="height:85px;width:85px" /> | Visual Studio Code | Edição dos arquivos de documentação.<sup>5</sup> |
+| <img src="../assets/ferramentas/whatsapp.png" style="height:85px;width:85px" /> | WhatsApp | Utilizado como principal canal de comunicação.<sup>6</sup> |
+| <img src="../assets/ferramentas/youtube.png" style="height:85px;width:95px" /> | YouTube | Hospedagem de vídeos produzidos.<sup>7</sup> |
+| <img src="../assets/ferramentas/gsheets.png" style="height:94px;width:72px" /> | Google Planilhas | Criação de planilhas relacionadas ao cronograma e horários.<sup>8</sup> |
+| <img src="../assets/ferramentas/gdocs.png" style="height:96px;width:96px" /> | Google Docs | Criação e edição de tabelas e arquivos.<sup>9</sup> |
+| <img src="../assets/ferramentas/gdrive.png" style="height:90px;width:90px" /> | Google Drive | Compartilhamento de arquivos.<sup>10</sup> |
+| <img src="../assets/ferramentas/wavelogo.png" style="height:90px;width:140px" /> | WAVE | Testar acessibilidade de aplicações web.<sup>11</sup> |
 
 <font size="3"><p style="text-align: center">Fonte: [Igor](https://github.com/igorvdaniel)</p></font>
 
