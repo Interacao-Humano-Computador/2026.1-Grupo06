@@ -6,16 +6,14 @@
 
 ## Ferramentas Utilizadas
 
-<div style="text-align: center;">
-
-**Tabela 1** - Ferramentas Utilizadas no Projeto
+<p align="center"><b>Tabela 1</b> - Ferramentas Utilizadas no Projeto</p>
 
 | Ícone | Ferramenta | Finalidade |
 |:-----:|:-----------|:-----------|
 | <img src="../assets/ferramentas/github.png" data-no-lightbox class="skip-lightbox" style="height:100px;width:100px" /> | GitHub | Organizar, versionar e documentar artefatos produzidos para o projeto.<sup>1</sup> |
 | <img src="../assets/ferramentas/teams.png" data-no-lightbox style="height:87px;width:100px" /> | Microsoft Teams | Realizações de reuniões e gravações de apresentações.<sup>2</sup> |
 | <img src="../assets/ferramentas/figma.png" data-no-lightbox style="height:94px;width:63px" /> | Figma | Produção de artefatos gráficos, modelos e protótipos de baixa e alta fidelidade.<sup>3</sup> |
-| <img src="../assets/ferramentas/mkdocs.png" data-no-lightbox /> | MkDocs | Criação das páginas de documentação.<sup>4</sup> |
+| <img src="../assets/ferramentas/mkdocs.png" data-no-lightbox style="height:80px;" /> | MkDocs | Criação das páginas de documentação.<sup>4</sup> |
 | <img src="../assets/ferramentas/vscode.png" data-no-lightbox style="height:85px;width:85px" /> | Visual Studio Code | Edição dos arquivos de documentação.<sup>5</sup> |
 | <img src="../assets/ferramentas/whatsapp.png" data-no-lightbox style="height:85px;width:85px" /> | WhatsApp | Utilizado como principal canal de comunicação.<sup>6</sup> |
 | <img src="../assets/ferramentas/youtube.png" data-no-lightbox style="height:85px;width:95px" /> | YouTube | Hospedagem de vídeos produzidos.<sup>7</sup> |
@@ -24,9 +22,7 @@
 | <img src="../assets/ferramentas/gdrive.png" data-no-lightbox style="height:90px;width:90px" /> | Google Drive | Compartilhamento de arquivos.<sup>10</sup> |
 | <img src="../assets/ferramentas/wavelogo.png" data-no-lightbox style="height:90px;width:140px" /> | WAVE | Testar acessibilidade de aplicações web.<sup>11</sup> |
 
-<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/igorvdaniel">Igor</a></p></font>
-
-</div>
+<p style="text-align: center; font-size: 14px;">Fonte: <a href="https://github.com/igorvdaniel">Igor</a></p>
 
 ## Bibliografia
 
