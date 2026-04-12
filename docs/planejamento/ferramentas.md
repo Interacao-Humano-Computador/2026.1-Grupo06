@@ -2,7 +2,7 @@
 
 ## Introdução
 
-<p style="text-align: justify;">&emsp;&emsp;Com o objetivo de concluir o projeto com sucesso, empregaram-se algumas ferramentas computacionais para facilitar a organização e o gerenciamento da equipe, bem como a produção dos artefatos. As ferramentas escolhidas para a execução do projeto estão apresentadas na Tabela 1.</p>
+<p style="text-align: justify;">&emsp;&emsp;Para a realização do projeto serão utilizadas algumas ferramentas para facilitar a organização da equipe e a produção dos artefatos. As ferramentas escolhidas para a execução do projeto estão apresentadas na Tabela 1.</p>
 
 ## Ferramentas Utilizadas
 
