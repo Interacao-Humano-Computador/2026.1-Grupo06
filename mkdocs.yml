@@ -1,5 +1,6 @@
 repo_url: https://github.com/Interacao-Humano-Computador/2026.1-Grupo06
 repo_name: 2026.1-Grupo06
+site_url: https://interacao-humano-computador.github.io/2026.1-Grupo06/
 
 markdown_extensions:
   - admonition
@@ -10,6 +11,8 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
+  - tables
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
@@ -65,5 +68,5 @@ theme:
         name: Mudar para o modo claro
 
   language: pt-BR
-  favicon: assets/bilheteria.png
-  logo: assets/bilheteria.png
+  favicon: assets/site.png
+  logo: assets/site.png
