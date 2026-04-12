@@ -48,4 +48,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 | Versão |    Data    |                Descrição                 |                    Autor(es)                     |                 Revisor(es)                  |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------- |
-| `1.0`  | 10/04/2026 | Criação da página de Processo de Design. | [Matheus Pinheiro]() | [...]() |
+| `1.0`  | 10/04/2026 | Criação da página de Processo de Design. | [Matheus Pinheiro]() | [Ígor Veras](https://github.com/igorvdaniel) |
