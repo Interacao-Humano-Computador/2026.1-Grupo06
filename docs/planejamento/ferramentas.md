@@ -6,13 +6,13 @@
 
 ## Ferramentas Utilizadas
 
-<center>
+<div style="text-align: center;">
 
 **Tabela 1** - Ferramentas Utilizadas no Projeto
 
 | Ícone | Ferramenta | Finalidade |
 |:-----:|:-----------|:-----------|
-| <img src="../assets/ferramentas/github.png#only-light" data-no-lightbox class="skip-lightbox" style="height:100px;width:100px" /><img src="../assets/ferramentas/github-e.png#only-dark" data-no-lightbox class="skip-lightbox" style="height:100px;width:100px" /> | GitHub | Organizar, versionar e documentar artefatos produzidos para o projeto.<sup>1</sup> |
+| <img src="../assets/ferramentas/github.png" data-no-lightbox class="skip-lightbox" style="height:100px;width:100px" /> | GitHub | Organizar, versionar e documentar artefatos produzidos para o projeto.<sup>1</sup> |
 | <img src="../assets/ferramentas/teams.png" data-no-lightbox style="height:87px;width:100px" /> | Microsoft Teams | Realizações de reuniões e gravações de apresentações.<sup>2</sup> |
 | <img src="../assets/ferramentas/figma.png" data-no-lightbox style="height:94px;width:63px" /> | Figma | Produção de artefatos gráficos, modelos e protótipos de baixa e alta fidelidade.<sup>3</sup> |
 | <img src="../assets/ferramentas/mkdocs.png" data-no-lightbox /> | MkDocs | Criação das páginas de documentação.<sup>4</sup> |
@@ -24,9 +24,9 @@
 | <img src="../assets/ferramentas/gdrive.png" data-no-lightbox style="height:90px;width:90px" /> | Google Drive | Compartilhamento de arquivos.<sup>10</sup> |
 | <img src="../assets/ferramentas/wavelogo.png" data-no-lightbox style="height:90px;width:140px" /> | WAVE | Testar acessibilidade de aplicações web.<sup>11</sup> |
 
-<font size="3"><p style="text-align: center">Fonte: [Igor](https://github.com/igorvdaniel)</p></font>
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/igorvdaniel">Igor</a></p></font>
 
-</center>
+</div>
 
 ## Bibliografia
 
@@ -51,7 +51,6 @@
 > <a id="FRM10" href="#anchor_10">10.</a> Google Drive. Disponível em: [https://workspace.google.com/intl/pt-BR/products/drive/](). Acesso em: 10 de abr. de 2026.
 >
 > <a id="FRM11" href="#anchor_11">11.</a> WAVE. Disponível em: [https://wave.webaim.org/](). Acesso em: 10 de abr. de 2026.
->
 
 ## Histórico de Versões
 

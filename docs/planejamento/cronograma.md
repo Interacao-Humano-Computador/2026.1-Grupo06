@@ -14,14 +14,18 @@ Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira 
 
 | Atividade                         | Período de desenvolvimento   | Responsáveis       | Revisão                      | Revisores        |
 | --------------------------------- | ---------------------------- | ------------------ | ---------------------------- | ---------------- |
-| Selecionar site                   | Início: 01/04 <br>Fim: 08/04 |            | Início: 09/04 <br>Fim: 10/04 |  e  |
-| Selecionar ferramentas do projeto | Início: 01/04 <br>Fim: 08/04 |   | Início: 09/04 <br>Fim: 10/04 |          |
-| Realização do cronograma          | Início: 01/04 <br>Fim: 08/04 |   | Início: 10/04 <br>Fim: 11/04 |         |
-| Processo de Design                | Início: 15/04 <br>Fim: 21/04 |  | Início: 22/04 <br>Fim: 22/04 |          |
-| Documentar Equipe                 | Início: 28/03 <br>Fim: 31/03 |             | Início: 16/04 <br>Fim: 16/04 |           |
-| Gravar apresentação               | Início: 22/04 <br>Fim: 22/04 |            | Início: 23/04 <br>Fim: 23/04 | Todos            |
-| Implementar Git Page              | Início: 10/04 <br>Fim: 16/04 |    | Início: 18/04 <br>Fim: 20/04 |          |
-| Correção pós apresentação         | Início: 24/04<br>Fim: 24/04  |             | Início: 25/04<br>Fim: 25/04  | Todos            |
+| Selecionar site                   | Início: 07/04 <br>Fim: 10/04 | Todos              | Início: 10/04 <br>Fim: 10/04 | Todos            |
+| Elaborar Lista de Verificação     | Início: 07/04 <br>Fim: 10/04 | Todos              | Início: 10/04 <br>Fim: 10/04 | Todos            |
+| Selecionar ferramentas do projeto | Início: 09/04 <br>Fim: 09/04 | Ígor               | Início: 09/04 <br>Fim: 10/04 |                  |
+| Realização do cronograma          | Início: 09/04 <br>Fim: 10/04 | Ígor e Felipe      | Início: 10/04 <br>Fim: 11/04 |                  |
+| Documentar Processo de Design     | Início: 09/04 <br>Fim: 11/04 | Matheus            | Início: 11/04 <br>Fim: 11/04 |                  |
+| Documentar Metodologia            | Início: 09/04 <br>Fim: 10/04 | João               | Início: 11/04 <br>Fim: 11/04 |                  |
+| Documentar Equipe                 | Início: 09/04 <br>Fim: 09/04 | Ígor               | Início: 09/04 <br>Fim: 10/04 |                  |
+| Implementar Git Page              | Início: 09/04 <br>Fim: 12/04 | Todos              | Início: 12/04 <br>Fim: 12/04 | Todos            |
+| Documentar Lista de Verificação   | Início: 10/04 <br>Fim: 11/04 | Felipe             | Início: 11/04 <br>Fim: 11/04 | Felipe           |
+| Documentar sites avaliados e escolhido | Início: 10/04 <br>Fim: 11/04 | Giulia        | Início: 11/04 <br>Fim: 12/04 | Giulia           |
+| Gravar apresentação               | Início: 12/04 <br>Fim: 12/04 | Todos              | Início: 12/04 <br>Fim: 12/04 | Todos            |
+| Correção pós apresentação         | Início: 15/04 <br>Fim: 15/04 | Todos              | Início: 16/04 <br>Fim: 16/04 | Todos            |
 
 <font size="3"><p style="text-align: center">Fonte: [ Igor](https://github.com/igorvdaniel) e [ Felipe Henrique](https://github.com/fhenrique77).</p></font>
 
@@ -33,151 +37,143 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 | Atividade                         | Período de desenvolvimento   | Responsáveis       | Revisão                      | Revisores        |
 | --------------------------------- | ---------------------------- | ------------------ | ---------------------------- | ---------------- |
-| Selecionar site                   | Início: 01/04 <br>Fim: 08/04 | Todos              | Início: 09/04 <br>Fim: 10/04 |  e  |
-| Selecionar ferramentas do projeto | Início: 01/04 <br>Fim: 08/04 |  e  | Início: 09/04 <br>Fim: 10/04 |          |
-| Realização do cronograma          | Início: 01/04 <br>Fim: 08/04 |  e  | Início: 10/04 <br>Fim: 11/04 |         |
-| Processo de Design                | Início: 15/04 <br>Fim: 22/04 | ,  | Início: 23/04 <br>Fim: 23/04 |          |
-| Documentar Equipe                 | Início: 28/03 <br>Fim: 31/03 |             | Início: 16/04 <br>Fim: 16/04 |           |
-| Gravar apresentação               | Início: 22/04 <br>Fim: 22/04 | Todos              | Início: 23/04 <br>Fim: 23/04 | Todos            |
-| Implementar Git Page              | Início: 10/04 <br>Fim: 16/04 |  e    | Início: 18/04 <br>Fim: 20/04 |          |
-| Correção pós apresentação         | Início: 24/04<br>Fim: 24/04  | Todos              | Início: 25/04<br>Fim: 25/04  | Todos            |
+| Selecionar site                   | Início: 07/04 <br>Fim: 11/04 | Todos              | Início: 12/04 <br>Fim: 12/04 | Todos            |
+| Elaborar Lista de Verificação     | Início: 07/04 <br>Fim: 10/04 | Todos              | Início: 11/04 <br>Fim: 11/04 | Todos            |
+| Selecionar ferramentas do projeto | Início: 09/04 <br>Fim: 09/04 | Ígor               | Início: 09/04 <br>Fim: 10/04 |                  |
+| Realização do cronograma          | Início: 09/04 <br>Fim: 12/04 | Ígor e Felipe      | Início: 10/04 <br>Fim: 11/04 |                  |
+| Documentar Processo de Design     | Início: 09/04 <br>Fim: 11/04 | Matheus            | Início: 11/04 <br>Fim: 11/04 |                  |
+| Documentar Metodologia            | Início: 09/04 <br>Fim: 11/04 | João               | Início: 11/04 <br>Fim: 11/04 |                  |
+| Documentar Equipe                 | Início: 09/04 <br>Fim: 09/04 | Ígor               | Início: 09/04 <br>Fim: 10/04 |                  |
+| Implementar Git Page              | Início: 09/04 <br>Fim: 12/04 | Todos              | Início: 12/04 <br>Fim: 12/04 | Todos            |
+| Documentar Lista de Verificação   | Início: 10/04 <br>Fim: 12/04 | Felipe             | Início: 12/04 <br>Fim: 12/04 | Felipe           |
+| Documentar sites avaliados e escolhido | Início: 10/04 <br>Fim: 11/04 | Giulia        | Início: 11/04 <br>Fim: 12/04 | Giulia           |
+| Gravar apresentação               | Início: 12/04 <br>Fim: 12/04 | Todos              | Início: 12/04 <br>Fim: 12/04 | Todos            |
+| Correção pós apresentação         | Início: 15/04 <br>Fim: 15/04 | Todos              | Início: 16/04 <br>Fim: 16/04 | Todos            |
 
 <font size="3"><p style="text-align: center">Fonte: [ Igor](https://github.com/igorvdaniel) e [ Felipe Henrique](https://github.com/fhenrique77).</p></font>
 
-## Entrega 2 - Perfil do usuário
+## Entrega 2 - Perfil do Usuário, Aspectos Éticos e Análise de Tarefas
 
-### Planejado
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Perfil do Usuário, Aspectos Éticos e Análise de Tarefas</p></font>
 
-Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda entrega.
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| --- | --- | --- | --- | --- |
+| Elaborar Perfil do Usuário | Início: 23/04 <br> Fim: 28/04 | Todos | Início: 28/04 <br> Fim: 29/04 | Todos |
+| Definir Aspectos Éticos | Início: 23/04 <br> Fim: 28/04 | Todos | Início: 28/04 <br> Fim: 29/04 | Todos |
+| Elaborar Termo de Consentimento (TCLE) | Início: 28/04 <br> Fim: 30/04 | Todos | Início: 30/04 <br> Fim: 01/05 | Todos |
+| Realizar Análise de Tarefas (HTA) | Início: 28/04 <br> Fim: 01/05 | Todos | Início: 01/05 <br> Fim: 02/05 | Todos |
+| Realizar Análise de Tarefas (GOMS) | Início: 28/04 <br> Fim: 01/05 | Todos | Início: 01/05 <br> Fim: 02/05 | Todos |
+| Atualizar Git Page | Início: 01/05 <br> Fim: 02/05 | Todos | Início: 02/05 <br> Fim: 02/05 | Todos |
+| Gravar apresentação | Início: 02/05 <br> Fim: 02/05 | Todos | Início: 02/05 <br> Fim: 02/05 | Todos |
+| Correção pós apresentação | Início: 06/05 <br> Fim: 06/05 | Todos | Início: 07/05 <br> Fim: 07/05 | Todos |
 
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Perfil do usuário</p></font>
+## Entrega 3 - Princípios Gerais de Projeto, Metas de Usabilidade e Guia de Estilo
 
-| Atividade                 | Período de desenvolvimento  | Responsáveis       | Revisão                     | Revisores |
-| ------------------------- | --------------------------- | ------------------ | --------------------------- | --------- |
-| Perfil do usuário         | Início: 21/04<br>Fim: 23/04 |           | Início: 24/04<br>Fim: 24/04 |    |
-| Personas                  | Início: 25/04<br>Fim: 27/04 |    | Início: 28/04<br>Fim: 29/04 |  |
-| Pesquisa sobre ética      | Início: 22/04<br>Fim: 25/04 |           | Início: 26/04<br>Fim: 26/04 |    |
-| Execução do documento     | Início: 27/04<br>Fim: 30/04 |  e    | Início: 01/05<br>Fim: 02/05 |   |
-| Análise de tarefas        | Início: 28/04<br>Fim: 01/04 |  e  | Início: 02/04<br>Fim: 03/04 |     |
-| Gravação da Apresentação  | Início: 01/05<br>Fim: 01/05 | Todos              | Início: 02/05<br>Fim: 02/05 |     |
-| Correção pós apresentação | Início: 09/05<br>Fim: 09/05 | Todos              | Início: 09/05<br>Fim: 12/05 |    |
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Princípios Gerais de Projeto, Metas de Usabilidade e Guia de Estilo</p></font>
 
-<font size="3"><p style="text-align: center">Fonte: [ Igor](https://github.com/igorvdaniel) e [ Felipe Henrique](https://github.com/fhenrique77).</p></font>
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| --- | --- | --- | --- | --- |
+| Definir características da plataforma | Início: 30/04 <br> Fim: 05/05 | Todos | Início: 05/05 <br> Fim: 06/05 | Todos |
+| Documentar Princípios Gerais do Projeto | Início: 05/05 <br> Fim: 08/05 | Todos | Início: 08/05 <br> Fim: 09/05 | Todos |
+| Definir Metas de Usabilidade | Início: 05/05 <br> Fim: 08/05 | Todos | Início: 08/05 <br> Fim: 09/05 | Todos |
+| Elaborar Guia de Estilo | Início: 07/05 <br> Fim: 10/05 | Todos | Início: 10/05 <br> Fim: 11/05 | Todos |
+| Atualizar Git Page | Início: 10/05 <br> Fim: 11/05 | Todos | Início: 11/05 <br> Fim: 11/05 | Todos |
+| Gravar apresentação | Início: 11/05 <br> Fim: 11/05 | Todos | Início: 11/05 <br> Fim: 11/05 | Todos |
+| Correção pós apresentação | Início: 15/05 <br> Fim: 15/05 | Todos | Início: 16/05 <br> Fim: 16/05 | Todos |
 
+## Entrega 4 - Planejamento da Avaliação do Storyboard e Análise de Tarefas
 
-## Entrega 3 - Princípios gerais do projeto
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Planejamento da Avaliação do Storyboard e Análise de Tarefas</p></font>
 
-### Planejado
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| --- | --- | --- | --- | --- |
+| Elaborar Storyboards | Início: 07/05 <br> Fim: 14/05 | Todos | Início: 14/05 <br> Fim: 15/05 | Todos |
+| Planejar Avaliação do Storyboard (DECIDE) | Início: 12/05 <br> Fim: 15/05 | Todos | Início: 15/05 <br> Fim: 16/05 | Todos |
+| Planejar Relato dos Resultados do Storyboard | Início: 14/05 <br> Fim: 16/05 | Todos | Início: 16/05 <br> Fim: 17/05 | Todos |
+| Planejar Avaliação da Análise de Tarefas (DECIDE) | Início: 12/05 <br> Fim: 15/05 | Todos | Início: 15/05 <br> Fim: 16/05 | Todos |
+| Planejar Relato dos Resultados da Análise de Tarefas | Início: 14/05 <br> Fim: 16/05 | Todos | Início: 16/05 <br> Fim: 17/05 | Todos |
+| Definir e realizar teste piloto | Início: 17/05 <br> Fim: 18/05 | Todos | Início: 18/05 <br> Fim: 18/05 | Todos |
+| Atualizar Git Page | Início: 17/05 <br> Fim: 18/05 | Todos | Início: 18/05 <br> Fim: 18/05 | Todos |
+| Gravar apresentação | Início: 18/05 <br> Fim: 18/05 | Todos | Início: 18/05 <br> Fim: 18/05 | Todos |
+| Correção pós apresentação | Início: 22/05 <br> Fim: 22/05 | Todos | Início: 23/05 <br> Fim: 23/05 | Todos |
 
-Na Tabela 5, tem-se o cronograma planejado para todas as atividades da terceira entrega.
+## Entrega 5 - Relato dos Resultados do Storyboard e Análise de Tarefas + Planejamento do Protótipo de Papel
 
-<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Princípios gerais do projeto</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Relato dos Resultados do Storyboard, Análise de Tarefas e Planejamento do Protótipo de Papel</p></font>
 
-| Atividade                        | Período de desenvolvimento  | Responsáveis       | Revisão                     | Revisores          |
-| -------------------------------- | --------------------------- | ------------------ | --------------------------- | ------------------ |
-| Princípios gerais do projeto<br> | Início: 10/05<br>Fim: 13/05 |  e    | Início: 13/05<br>Fim: 14/05 |  e  |
-| Metas de usabilidade<br>         | Início: 10/05<br>Fim: 13/05 |  e  | Início: 13/05<br>Fim: 14/05 |  e    |
-| Guia de estilo <br>              | Início: 10/05<br>Fim: 13/05 |  e  | Início: 13/05<br>Fim: 14/05 |  e  |
-| Gravar Apresentação<br>          | Início: 14/05<br>Fim: 14/05 | Todos              | Início: 14/05<br>Fim: 14/05 | Todos              |
-| Correção pós apresentação<br>    | Início: 16/05<br>Fim: 16/05 | Todos              | Início: 16/05<br>Fim: 16/05 | Todos              |
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| --- | --- | --- | --- | --- |
+| Executar Avaliação do Storyboard | Início: 19/05 <br> Fim: 23/05 | Todos | Início: 23/05 <br> Fim: 24/05 | Todos |
+| Executar Avaliação da Análise de Tarefas | Início: 19/05 <br> Fim: 23/05 | Todos | Início: 23/05 <br> Fim: 24/05 | Todos |
+| Relatar Resultados do Storyboard | Início: 23/05 <br> Fim: 27/05 | Todos | Início: 27/05 <br> Fim: 28/05 | Todos |
+| Relatar Resultados da Análise de Tarefas | Início: 23/05 <br> Fim: 27/05 | Todos | Início: 27/05 <br> Fim: 28/05 | Todos |
+| Planejar Avaliação do Protótipo de Papel | Início: 26/05 <br> Fim: 29/05 | Todos | Início: 29/05 <br> Fim: 30/05 | Todos |
+| Planejar Relato dos Resultados do Protótipo de Papel | Início: 26/05 <br> Fim: 29/05 | Todos | Início: 29/05 <br> Fim: 30/05 | Todos |
+| Atualizar Git Page | Início: 29/05 <br> Fim: 30/05 | Todos | Início: 30/05 <br> Fim: 30/05 | Todos |
+| Gravar apresentação | Início: 30/05 <br> Fim: 30/05 | Todos | Início: 30/05 <br> Fim: 30/05 | Todos |
+| Correção pós apresentação | Início: 03/06 <br> Fim: 03/06 | Todos | Início: 04/06 <br> Fim: 04/06 | Todos |
 
-<font size="3"><p style="text-align: center">Fonte: [ Igor](https://github.com/igorvdaniel) e [ Felipe Henrique](https://github.com/fhenrique77).</p></font>
+## Entrega 6 - Relato dos Resultados do Protótipo de Papel + Planejamento do Protótipo de Alta Fidelidade
 
-## Entrega 4
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Relato dos Resultados do Protótipo de Papel e Planejamento do Protótipo de Alta Fidelidade</p></font>
 
-### Planejado
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| --- | --- | --- | --- | --- |
+| Construir Protótipo de Papel | Início: 26/05 <br> Fim: 01/06 | Todos | Início: 01/06 <br> Fim: 02/06 | Todos |
+| Executar Avaliação do Protótipo de Papel | Início: 02/06 <br> Fim: 05/06 | Todos | Início: 05/06 <br> Fim: 06/06 | Todos |
+| Relatar Resultados do Protótipo de Papel | Início: 05/06 <br> Fim: 06/06 | Todos | Início: 06/06 <br> Fim: 06/06 | Todos |
+| Planejar Avaliação do Protótipo de Alta Fidelidade | Início: 04/06 <br> Fim: 06/06 | Todos | Início: 06/06 <br> Fim: 06/06 | Todos |
+| Planejar Relato dos Resultados do Protótipo de Alta Fidelidade | Início: 04/06 <br> Fim: 06/06 | Todos | Início: 06/06 <br> Fim: 06/06 | Todos |
+| Atualizar Git Page | Início: 06/06 <br> Fim: 06/06 | Todos | Início: 06/06 <br> Fim: 06/06 | Todos |
+| Gravar apresentação | Início: 06/06 <br> Fim: 06/06 | Todos | Início: 06/06 <br> Fim: 06/06 | Todos |
+| Correção pós apresentação | Início: 10/06 <br> Fim: 10/06 | Todos | Início: 11/06 <br> Fim: 11/06 | Todos |
 
-Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta entrega.
+## Entrega 7 - Relato dos Resultados do Protótipo de Alta Fidelidade
 
-<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Planejamentos</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Relato dos Resultados do Protótipo de Alta Fidelidade</p></font>
 
-| Atividade                                                        | Período de desenvolvimento  | Responsáveis       | Revisão                       | Revisores          |
-| ---------------------------------------------------------------- | --------------------------- | ------------------ | ----------------------------- | ------------------ |
-| Planejamento da avaliação do Storyboard                          | Início: 17/05<br>Fim: 20/05 |  e     | Início: 20/05<br>Fim: 20/05   |  e   |
-| Planejamento do relato dos resultados da avaliação do Storyboard | Início: 17/05<br>Fim: 20/05 |  e   | Início: 20/05<br>Fim: 20/05   |  e  |
-| Planejamento da Avaliação da Análise de tarefas                  | Início: 17/05<br>Fim: 20/05 |  e  | Início: 20/05<br>Fim: 20/05   |  e     |
-| Planejamento do relato da avaliação da análise de tareas         | Início: 17/05<br>Fim: 20/05 |            | Início: 21/05 <br> Fim: 21/05 |           |
-| Gravação da apresentação                                         | Início: 21/05<br>Fim: 21/05 | Todos              | Início: 20/05<br>Fim: 20/05   | Todos              |
-| Correção pós apresentação                                        | Início: 23/05<br>Fim: 23/05 | Todos              | Início: 24/05<br>Fim: 25/05   | Todos              |
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| --- | --- | --- | --- | --- |
+| Construir Protótipo de Alta Fidelidade | Início: 09/06 <br> Fim: 13/06 | Todos | Início: 13/06 <br> Fim: 14/06 | Todos |
+| Executar Avaliação do Protótipo de Alta Fidelidade | Início: 13/06 <br> Fim: 15/06 | Todos | Início: 15/06 <br> Fim: 15/06 | Todos |
+| Relatar Resultados do Protótipo de Alta Fidelidade | Início: 15/06 <br> Fim: 15/06 | Todos | Início: 15/06 <br> Fim: 15/06 | Todos |
+| Atualizar Git Page | Início: 15/06 <br> Fim: 15/06 | Todos | Início: 15/06 <br> Fim: 15/06 | Todos |
+| Gravar apresentação | Início: 15/06 <br> Fim: 15/06 | Todos | Início: 15/06 <br> Fim: 15/06 | Todos |
+| Correção pós apresentação | Início: 19/06 <br> Fim: 19/06 | Todos | Início: 20/06 <br> Fim: 20/06 | Todos |
 
-<font size="3"><p style="text-align: center">Fonte: [ Igor](https://github.com/igorvdaniel) e [ Felipe Henrique](https://github.com/fhenrique77).</p></font>
+## Entrega 8 - Verificação dos Artefatos
 
+<font size="3"><p style="text-align: center"><b>Tabela 8</b> - Verificação dos Artefatos</p></font>
 
-## Entrega 5
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| --- | --- | --- | --- | --- |
+| Verificar artefatos da Entrega 1 | Início: 16/06 <br> Fim: 19/06 | Todos | Início: 19/06 <br> Fim: 20/06 | Todos |
+| Verificar artefatos da Entrega 2 | Início: 16/06 <br> Fim: 19/06 | Todos | Início: 19/06 <br> Fim: 20/06 | Todos |
+| Verificar artefatos da Entrega 3 | Início: 16/06 <br> Fim: 19/06 | Todos | Início: 19/06 <br> Fim: 20/06 | Todos |
+| Verificar artefatos da Entrega 4 | Início: 19/06 <br> Fim: 21/06 | Todos | Início: 21/06 <br> Fim: 22/06 | Todos |
+| Verificar artefatos da Entrega 5 | Início: 19/06 <br> Fim: 21/06 | Todos | Início: 21/06 <br> Fim: 22/06 | Todos |
+| Verificar artefatos da Entrega 6 | Início: 19/06 <br> Fim: 21/06 | Todos | Início: 21/06 <br> Fim: 22/06 | Todos |
+| Verificar artefatos da Entrega 7 | Início: 21/06 <br> Fim: 23/06 | Todos | Início: 23/06 <br> Fim: 23/06 | Todos |
+| Atualizar Git Page | Início: 23/06 <br> Fim: 23/06 | Todos | Início: 23/06 <br> Fim: 23/06 | Todos |
+| Gravar apresentação | Início: 23/06 <br> Fim: 23/06 | Todos | Início: 23/06 <br> Fim: 23/06 | Todos |
+| Correção pós apresentação | Início: 26/06 <br> Fim: 26/06 | Todos | Início: 27/06 <br> Fim: 27/06 | Todos |
 
-### Planejado
+## Projeto Final
 
-Na Tabela 9, tem-se o cronograma planejado para todas as atividades da quinta entrega.
+<font size="3"><p style="text-align: center"><b>Tabela 9</b> - Projeto Final</p></font>
 
-<font size="3"><p style="text-align: center"><b>Tabela 9</b> - Análise de requisitos 1</p></font>
-
-| Atividade                                                               | Período de desenvolvimento  | Responsáveis       | Revisão                     | Revisores          |
-| ----------------------------------------------------------------------- | --------------------------- | ------------------ | --------------------------- | ------------------ |
-| Relato dos resultados do Storyboard                                     | Início: 23/05<br>Fim: 24/05 |             | Início: 24/05<br>Fim: 24/05 |              |
-| Relato dos resultados da Análise de tarefas                             | Início: 23/05<br>Fim: 24/05 |  e  | Início: 24/05<br>Fim: 24/05 |  e    |
-| Planejamento do relato de resultados da avaliação do protótipo de papel | Início: 24/05<br>Fim: 25/05 |              | Início: 25/05<br>Fim: 25/05 |             |
-| Planejamento da avaliação do protótipo de papel                         | Início: 26/05<br>Fim: 27/05 |  e    | Início: 28/05<br>Fim: 28/05 |  e  |
-| Gravação da apresentação                                                | Início: 28/05<br>Fim: 28/05 | Todos              | Início: 28/05<br>Fim: 28/05 | Todos              |
-| Correção pós apresentação                                               | Início: 30/05<br>Fim: 31/05 | Todos              | Início: 01/05<br>Fim: 02/05 | Todos              |
-
-<font size="3"><p style="text-align: center">Fonte: [ Igor](https://github.com/igorvdaniel) e [ Felipe Henrique](https://github.com/fhenrique77).</p></font>
-
-## Entrega 7
-
-### Planejado
-
-Na Tabela 15, tem-se o cronograma planejado para todas as atividades da sétima entrega.
-
-<font size="3"><p style="text-align: center"><b>Tabela 15</b> - Relato dos resultados</p></font>
-
-| Atividade                                                                          | Período de desenvolvimento  | Responsáveis      | Revisão                     | Revisores |
-| ---------------------------------------------------------------------------------- | --------------------------- | ----------------- | --------------------------- | --------- |
-| Relato dos resultados do Protótipo de Papel                                        | Início: 07/06<br>Fim: 08/06 |             | Início: 08/06<br>Fim: 08/06 |   |
-| Planejamento da avaliação do protótipo de alta fidelidade                          | Início: 07/06<br>Fim: 08/06 |  e   | Início: 08/06<br>Fim: 08/06 |     |
-| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 09/06<br>Fim: 10/06 |  e  | Início: 10/06<br>Fim: 10/06 |   |
-| Gravação da apresentação                                                           | Início: 11/06<br>Fim: 11/06 | Todos             | Início: 12/06<br>Fim: 12/06 | Todos     |
-| Correção pós entrega                                                               | Início: 13/06<br>Fim: 13/06 | Todos             | Início: 14/06<br>Fim: 15/06 | Todos     |
-
-<font size="3"><p style="text-align: center">Fonte: [ Igor](https://github.com/igorvdaniel) e [ Felipe Henrique](https://github.com/fhenrique77).</p></font>
-
-## Entrega 8
-
-### Planejado
-
-Na Tabela 17, tem-se o cronograma planejado para todas as atividades da oitava entrega.
-
-<font size="3"><p style="text-align: center"><b>Tabela 17</b> - Resultado protótipo alta fidelidade</p></font>
-
-| Atividade                                                          | Período de desenvolvimento  | Responsáveis      | Revisão                     | Revisores |
-| ------------------------------------------------------------------ | --------------------------- | ----------------- | --------------------------- | --------- |
-| Relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 14/06<br>Fim: 15/06 |  e  | Início: 15/06<br>Fim: 16/06 |    |
-| Planejamento de verificação dos artefatos da entrega 7             | Início: 14/06<br>Fim: 15/06 |  e    | Início: 15/06<br>Fim: 16/06 |  |
-| Relato da verificação da Etapa 7 e ajustes nos artefatos           | Início: 17/06<br>Fim: 18/06 |  e  | Início: 19/06<br>Fim: 20/06 |    |
-| Gravação da apresentação                                           | Início: 24/06<br>Fim: 24/06 | Todos             | Início: 24/06<br>Fim: 25/06 | Todos     |
-| Correção pós entrega                                               | Início: 27/06<br>Fim: 27/06 | Todos             | Início: 28/06<br>Fim: 29/06 | Todos     |
-
-<font size="3"><p style="text-align: center">Fonte: [ Igor](https://github.com/igorvdaniel) e [ Felipe Henrique](https://github.com/fhenrique77).</p></font>
-
-## Entrega final
-
-### Planejado
-
-Na Tabela 18, tem-se o cronograma planejado para todas as atividades da última entrega.
-
-<font size="3"><p style="text-align: center"><b>Tabela 18</b> - Entrega final</p></font>
-
-| Atividade                                                | Período de desenvolvimento  | Responsáveis               | Revisão                     | Revisores                  |
-| -------------------------------------------------------- | --------------------------- | -------------------------- | --------------------------- | -------------------------- |
-| Planejamento de verificação dos artefatos da Etapa 8     | Início: 27/06<br>Fim: 28/06 | , ,     | Início: 28/06<br>Fim: 29/06 | , ,  |
-| Relato da verificação da Etapa 8 e ajustes nos artefatos | Início: 27/06<br>Fim: 28/06 | , ,  | Início: 28/06<br>Fim: 29/06 | , ,     |
-| Gravação da apresentação                                 | Início: 03/07<br>Fim: 03/07 | Todos                      | Início: 04/07<br>Fim: 05/07 | Todos                      |
-| Correção pós apresentação                                | Início: 06/07<br>Fim: 06/07 | Todos                      | Início: 07/07<br>Fim: 08/07 | Todos                      |
-
-<font size="3"><p style="text-align: center">Fonte: [ Igor](https://github.com/igorvdaniel) e [ Felipe Henrique](https://github.com/fhenrique77).</p></font>
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| --- | --- | --- | --- | --- |
+| Consolidar artefatos de todas as etapas | Início: 23/06 <br> Fim: 27/06 | Todos | Início: 27/06 <br> Fim: 28/06 | Todos |
+| Elaborar tabelas síntese (ferramentas, técnicas, artefatos, avaliações, vídeos) | Início: 26/06 <br> Fim: 29/06 | Todos | Início: 29/06 <br> Fim: 30/06 | Todos |
+| Registrar facilidades e dificuldades por integrante | Início: 28/06 <br> Fim: 30/06 | Todos | Início: 30/06 <br> Fim: 30/06 | Todos |
+| Atualizar Git Page | Início: 30/06 <br> Fim: 30/06 | Todos | Início: 30/06 <br> Fim: 30/06 | Todos |
+| Gravar apresentação final | Início: 30/06 <br> Fim: 30/06 | Todos | Início: 30/06 <br> Fim: 01/07 | Todos |
+| Apresentação final para o professor | Início: 02/07 <br> Fim: 16/07 | Todos | — | — |
 
 ## Referências Bibliográficas
 
-> SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2016. Disponível em: <<https://aprender3.unb.br/pluginfile.php/3335958/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf>. Acesso em 09 de abril de 2026.
+> SALES, André Barros de. Ambientação, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2022. Disponível em: <<https://aprender3.unb.br/pluginfile.php/3335958/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf>. Acesso em 09 de abril de 2026.
 
 ## Bibliografia
 
