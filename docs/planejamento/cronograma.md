@@ -39,22 +39,22 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 | --------------------------------- | ---------------------------- | ------------------ | ---------------------------- | ---------------- |
 | Selecionar site                   | Início: 07/04 <br>Fim: 11/04 | Todos              | Início: 12/04 <br>Fim: 12/04 | Todos            |
 | Elaborar Lista de Verificação     | Início: 07/04 <br>Fim: 10/04 | Todos              | Início: 11/04 <br>Fim: 11/04 | Todos            |
-| Selecionar ferramentas do projeto | Início: 09/04 <br>Fim: 09/04 | Ígor               | Início: 09/04 <br>Fim: 10/04 |                  |
-| Realização do cronograma          | Início: 09/04 <br>Fim: 12/04 | Ígor e Felipe      | Início: 10/04 <br>Fim: 11/04 |                  |
-| Documentar Processo de Design     | Início: 09/04 <br>Fim: 11/04 | Matheus            | Início: 11/04 <br>Fim: 11/04 |                  |
-| Documentar Metodologia            | Início: 09/04 <br>Fim: 11/04 | João               | Início: 11/04 <br>Fim: 11/04 |                  |
+| Selecionar ferramentas do projeto | Início: 09/04 <br>Fim: 09/04 | Ígor               | Início: 09/04 <br>Fim: 10/04 | Matheus               |
+| Realização do cronograma          | Início: 09/04 <br>Fim: 12/04 | Ígor e Felipe      | Início: 12/04 <br>Fim: 12/04 |                  |
+| Documentar Processo de Design     | Início: 09/04 <br>Fim: 11/04 | Matheus            | Início: 12/04 <br>Fim: 12/04 |  Ígor               |
+| Documentar Metodologia            | Início: 09/04 <br>Fim: 11/04 | João               | Início: 12/04 <br>Fim: 12/04 |                  |
 | Documentar Equipe                 | Início: 09/04 <br>Fim: 09/04 | Ígor               | Início: 09/04 <br>Fim: 10/04 |                  |
 | Implementar Git Page              | Início: 09/04 <br>Fim: 12/04 | Todos              | Início: 12/04 <br>Fim: 12/04 | Todos            |
 | Documentar Lista de Verificação   | Início: 10/04 <br>Fim: 12/04 | Felipe             | Início: 12/04 <br>Fim: 12/04 | Felipe           |
 | Documentar sites avaliados e escolhido | Início: 10/04 <br>Fim: 11/04 | Giulia        | Início: 11/04 <br>Fim: 12/04 | Giulia           |
 | Gravar apresentação               | Início: 12/04 <br>Fim: 12/04 | Todos              | Início: 12/04 <br>Fim: 12/04 | Todos            |
-| Correção pós apresentação         | Início: 15/04 <br>Fim: 15/04 | Todos              | Início: 16/04 <br>Fim: 16/04 | Todos            |
+| Correção pós apresentação         | Início:  <br>Fim:  | Todos              | Início:  <br>Fim: | Todos            |
 
 <font size="3"><p style="text-align: center">Fonte: [ Igor](https://github.com/igorvdaniel) e [ Felipe Henrique](https://github.com/fhenrique77).</p></font>
 
 ## Entrega 2 - Perfil do Usuário, Aspectos Éticos e Análise de Tarefas
 
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Perfil do Usuário, Aspectos Éticos e Análise de Tarefas</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Perfil do Usuário, Aspectos Éticos e Análise de Tarefas</p></font>
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
@@ -69,7 +69,7 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 ## Entrega 3 - Princípios Gerais de Projeto, Metas de Usabilidade e Guia de Estilo
 
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Princípios Gerais de Projeto, Metas de Usabilidade e Guia de Estilo</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Princípios Gerais de Projeto, Metas de Usabilidade e Guia de Estilo</p></font>
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
@@ -83,23 +83,21 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 ## Entrega 4 - Planejamento da Avaliação do Storyboard e Análise de Tarefas
 
-<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Planejamento da Avaliação do Storyboard e Análise de Tarefas</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Planejamento da Avaliação do Storyboard e Análise de Tarefas</p></font>
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
-| Elaborar Storyboards | Início: 07/05 <br> Fim: 14/05 | Todos | Início: 14/05 <br> Fim: 15/05 | Todos |
 | Planejar Avaliação do Storyboard (DECIDE) | Início: 12/05 <br> Fim: 15/05 | Todos | Início: 15/05 <br> Fim: 16/05 | Todos |
 | Planejar Relato dos Resultados do Storyboard | Início: 14/05 <br> Fim: 16/05 | Todos | Início: 16/05 <br> Fim: 17/05 | Todos |
 | Planejar Avaliação da Análise de Tarefas (DECIDE) | Início: 12/05 <br> Fim: 15/05 | Todos | Início: 15/05 <br> Fim: 16/05 | Todos |
 | Planejar Relato dos Resultados da Análise de Tarefas | Início: 14/05 <br> Fim: 16/05 | Todos | Início: 16/05 <br> Fim: 17/05 | Todos |
-| Definir e realizar teste piloto | Início: 17/05 <br> Fim: 18/05 | Todos | Início: 18/05 <br> Fim: 18/05 | Todos |
 | Atualizar Git Page | Início: 17/05 <br> Fim: 18/05 | Todos | Início: 18/05 <br> Fim: 18/05 | Todos |
 | Gravar apresentação | Início: 18/05 <br> Fim: 18/05 | Todos | Início: 18/05 <br> Fim: 18/05 | Todos |
 | Correção pós apresentação | Início: 22/05 <br> Fim: 22/05 | Todos | Início: 23/05 <br> Fim: 23/05 | Todos |
 
 ## Entrega 5 - Relato dos Resultados do Storyboard e Análise de Tarefas + Planejamento do Protótipo de Papel
 
-<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Relato dos Resultados do Storyboard, Análise de Tarefas e Planejamento do Protótipo de Papel</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Relato dos Resultados do Storyboard, Análise de Tarefas e Planejamento do Protótipo de Papel</p></font>
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
@@ -115,7 +113,7 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 ## Entrega 6 - Relato dos Resultados do Protótipo de Papel + Planejamento do Protótipo de Alta Fidelidade
 
-<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Relato dos Resultados do Protótipo de Papel e Planejamento do Protótipo de Alta Fidelidade</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Relato dos Resultados do Protótipo de Papel e Planejamento do Protótipo de Alta Fidelidade</p></font>
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
@@ -130,7 +128,7 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 ## Entrega 7 - Relato dos Resultados do Protótipo de Alta Fidelidade
 
-<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Relato dos Resultados do Protótipo de Alta Fidelidade</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 8</b> - Relato dos Resultados do Protótipo de Alta Fidelidade</p></font>
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
@@ -143,7 +141,7 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 ## Entrega 8 - Verificação dos Artefatos
 
-<font size="3"><p style="text-align: center"><b>Tabela 8</b> - Verificação dos Artefatos</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 9</b> - Verificação dos Artefatos</p></font>
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
@@ -160,7 +158,7 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 ## Projeto Final
 
-<font size="3"><p style="text-align: center"><b>Tabela 9</b> - Projeto Final</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 10</b> - Projeto Final</p></font>
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
