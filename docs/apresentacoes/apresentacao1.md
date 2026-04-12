@@ -3,7 +3,7 @@
 O objetivo dessa página é apresentar o vídeo de entrega da apresentação 1 do projeto, clique no link para acessar diretamente o vídeo no youtube contendo a mesma.
 
 ## Apresentação 01
-<p style="text-align: center"><a href="https://www.youtube.com/" target="blanket">Clique aqui</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/" target="blanket">Link aqui</a></p>
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/c_BhiL1lPC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 

@@ -23,7 +23,7 @@ markdown_extensions:
 plugins:
   - glightbox
 
-site_name: Grupo 06
+site_name: Serviços de Matrícula DF
 nav:
   - Home: index.md
   - Apresentações:
