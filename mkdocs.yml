@@ -1,5 +1,6 @@
 repo_url: https://github.com/Interacao-Humano-Computador/2026.1-Grupo06
 repo_name: 2026.1-Grupo06
+site_url: https://interacao-humano-computador.github.io/2026.1-Grupo06/
 
 markdown_extensions:
   - admonition
