@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O site da Secretaria de Educação do Distrito Federal, foi selecionado como objeto principal deste trabalho por se tratar de um sistema institucional voltado à prestação de serviços essenciais à população.
+O site da Secretaria de Educação do Distrito Federal, especificamente a página de Carta de Serviços – Matrícula, foi selecionado como objeto principal deste trabalho por se tratar de um sistema institucional voltado à prestação de serviços essenciais à população.
 
 Essa página reúne informações importantes sobre o processo de matrícula na rede pública de ensino, sendo amplamente acessada por cidadãos, especialmente responsáveis por estudantes.
 
@@ -30,9 +30,16 @@ A escolha do site foi motivada pela necessidade de avaliar a clareza e acessibil
 
 Além disso, páginas desse tipo frequentemente apresentam linguagem institucional e grande volume de informações, o que pode impactar a experiência do usuário.
 
+A escolha do site também está alinhada ao planejamento definido no Processo de Design do projeto, estruturado a partir do framework DECIDE, garantindo coerência entre os objetivos da avaliação e o sistema analisado.
+
 ---
+
+### [Link para a avaliação de IHC completa do site.](assets/sites-avaliados/ssp.pdf)
+
+---
+
 ## Histórico de Versões
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
-| `1.0`  | 09/04/2026 | Criação da página de processo de design | Giulia Paulucci |  |
+| `1.0`  | 09/04/2026 | Criação da página de site escolhido | Giulia Paulucci |  |
