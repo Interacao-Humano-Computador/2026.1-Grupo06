@@ -31,4 +31,8 @@ A escolha do site foi motivada pela necessidade de avaliar a clareza e acessibil
 Além disso, páginas desse tipo frequentemente apresentam linguagem institucional e grande volume de informações, o que pode impactar a experiência do usuário.
 
 ---
+## Histórico de Versões
 
+Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
+--------- | ------ | ------ | ---------- | ----------
+| `1.0`  | 09/04/2026 | Criação da página de processo de design | Giulia Paulucci |  |
