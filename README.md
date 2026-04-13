@@ -1,4 +1,4 @@
-Este repositório é dedicada à documentação de todos os artefatos produzidos pelo grupo 06 na disciplina de Interação Humano-Computador (IHC) da da Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE-Unb) durante o 1º semestre de 2026. O objetivo do projeto é fazer a avaliação de IHC do site [SITE](https://www.site.com).
+Este repositório é dedicada à documentação de todos os artefatos produzidos pelo grupo 06 na disciplina de Interação Humano-Computador (IHC) da da Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE-Unb) durante o 1º semestre de 2026. O objetivo do projeto é fazer a avaliação de IHC do site [Serviços de Matrícula DF](https://www.educacao.df.gov.br/carta-de-servicos-matricula).
 
 ## Equipe
 
