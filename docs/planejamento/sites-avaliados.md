@@ -65,7 +65,7 @@ Foram identificadas as seguintes violações de heurísticas:
 
 Os principais problemas observados incluem botões sem função, ausência de funcionalidades esperadas, poluição visual e falta de orientação ao usuário, resultando em frustração e impedindo a realização de tarefas essenciais, como emissão de declarações.
 
-[Link para a avaliação detalhada](docs/assets/sites-avaliados/)
+[Link para a avaliação detalhada](../../assets/sites-avaliados/PlojetoParteIndividualMetodoeAvalição%20(1).pdf)
 
 ---
 
