@@ -65,7 +65,6 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 <font size="3"><p style="text-align: center">Fonte: [ Igor](https://github.com/igorvdaniel) e [ Felipe Henrique](https://github.com/fhenrique77).</p></font>
 
 ## Entrega 2 - Perfil do Usuário, Aspectos Éticos e Análise de Tarefas
-## Entrega 2 - Perfil do Usuário, Aspectos Éticos e Análise de Tarefas
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Perfil do Usuário, Aspectos Éticos e Análise de Tarefas</p></font>
 
@@ -90,7 +89,6 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 | Gravar apresentação | Início: 02/05 <br> Fim: 02/05 | Todos | Início: 02/05 <br> Fim: 02/05 | Todos |
 | Correção pós apresentação | Início: 06/05 <br> Fim: 06/05 | Todos | Início: 07/05 <br> Fim: 07/05 | Todos |
 
-## Entrega 3 - Princípios Gerais de Projeto, Metas de Usabilidade e Guia de Estilo
 ## Entrega 3 - Princípios Gerais de Projeto, Metas de Usabilidade e Guia de Estilo
 
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Princípios Gerais de Projeto, Metas de Usabilidade e Guia de Estilo</p></font>
@@ -134,19 +132,6 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Relato dos Resultados do Storyboard, Análise de Tarefas e Planejamento do Protótipo de Papel</p></font>
 
-| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
-| --- | --- | --- | --- | --- |
-| Executar Avaliação do Storyboard | Início: 19/05 <br> Fim: 23/05 | Todos | Início: 23/05 <br> Fim: 24/05 | Todos |
-| Executar Avaliação da Análise de Tarefas | Início: 19/05 <br> Fim: 23/05 | Todos | Início: 23/05 <br> Fim: 24/05 | Todos |
-| Relatar Resultados do Storyboard | Início: 23/05 <br> Fim: 27/05 | Todos | Início: 27/05 <br> Fim: 28/05 | Todos |
-| Relatar Resultados da Análise de Tarefas | Início: 23/05 <br> Fim: 27/05 | Todos | Início: 27/05 <br> Fim: 28/05 | Todos |
-| Planejar Avaliação do Protótipo de Papel | Início: 26/05 <br> Fim: 29/05 | Todos | Início: 29/05 <br> Fim: 30/05 | Todos |
-| Planejar Relato dos Resultados do Protótipo de Papel | Início: 26/05 <br> Fim: 29/05 | Todos | Início: 29/05 <br> Fim: 30/05 | Todos |
-| Atualizar Git Page | Início: 29/05 <br> Fim: 30/05 | Todos | Início: 30/05 <br> Fim: 30/05 | Todos |
-| Gravar apresentação | Início: 30/05 <br> Fim: 30/05 | Todos | Início: 30/05 <br> Fim: 30/05 | Todos |
-| Correção pós apresentação | Início: 03/06 <br> Fim: 03/06 | Todos | Início: 04/06 <br> Fim: 04/06 | Todos |
-
-## Entrega 6 - Relato dos Resultados do Protótipo de Papel + Planejamento do Protótipo de Alta Fidelidade
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
 | Executar Avaliação do Storyboard | Início: 19/05 <br> Fim: 23/05 | Todos | Início: 23/05 <br> Fim: 24/05 | Todos |
@@ -239,7 +224,6 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 
 ## Referências Bibliográficas
 
-> SALES, André Barros de. Ambientação, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2026. Disponível em: <<https://aprender3.unb.br/pluginfile.php/3335948/mod_resource/content/61/Plano_de_Ensino%20FIHC%20012026%20Turma%2003%20v2.pdf>. Acesso em 09 de abril de 2026.
 > SALES, André Barros de. Ambientação, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2026. Disponível em: <<https://aprender3.unb.br/pluginfile.php/3335948/mod_resource/content/61/Plano_de_Ensino%20FIHC%20012026%20Turma%2003%20v2.pdf>. Acesso em 09 de abril de 2026.
 
 ## Bibliografia
