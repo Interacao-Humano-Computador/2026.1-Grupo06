@@ -39,6 +39,10 @@ Esta página é dedicada à documentação de todos os artefatos produzidos pelo
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/luacristiana">
+        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/134012535?v=4" width="100px;" alt=""/><br />
+        <sub><b>Luara Cristiana da Costa e Silva</b></sub></a><br />
+    <td align="center">
       <a href="https://github.com/matheus-06">
         <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/187211058?v=4" width="100px;" alt=""/><br />
         <sub><b>Matheus Pinheiro</b></sub>
@@ -52,3 +56,4 @@ Esta página é dedicada à documentação de todos os artefatos produzidos pelo
 | Versão | Data       | Descrição                                | Autor(es)                                                                                       | Revisor(es)                                                                                                                                    |
 | ------ | ---------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | `1.0`  | 09/04/2026 | Criação da git pages                    | [Ígor Veras ](https://github.com/igorvdaniel) |  |
+| `2.0`  | 22/04/2026 | Introdução de novo membro                    | [Ígor Veras ](https://github.com/igorvdaniel) |  |
