@@ -41,7 +41,9 @@ nav:
   -  Análise de Requisitos:
       - Aspectos Éticos: analise-de-requisitos/aspectos-eticos.md
       - Perfil de Usuário: 
-        - Introducao: analise-de-requisitos/perfis/perfil-usuario-introducao.md
+        - Transferência de Matrícula: analise-de-requisitos/perfis/perfil-transferencia-matricula.md
+      - Cenarios:
+        - Transferência de Matrícula: analise-de-requisitos/cenarios/cenario-transferencia-matricula.md
   - Verificação:
       - Verificação do Grupo:
           - Etapa 1:
