@@ -205,3 +205,15 @@ Essa proposta está alinhada com as características e limitações identificada
 O usuário típico do sistema é reponsável por aluno, com conhecimento tecnológico básico, que utiliza principalmente dispositivos móveis para acessar informações escolares.
 
 Esse usuário busca rapidez, simplicidade e clareza na navegação, apresentando dificuldades diante de interfaces complexas e excesso de informações.
+
+## Referências
+
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: Elsevier, 2010.
+
+DISTRITO FEDERAL. Secretaria de Estado de Educação do Distrito Federal. Disponível em: <https://www.educacao.df.gov.br/>. Acesso em: 03 maio 2026.
+
+IBGE. Pesquisa Nacional por Amostra de Domicílios Contínua (PNAD Contínua): Acesso à Internet e à Televisão e Posse de Telefone Móvel Celular para Uso Pessoal 2024. Disponível em: <https://www.ibge.gov.br/>. Acesso em: 03 maio 2026.
+
+BRASIL. Governo Federal. Serviços Públicos Digitais. Disponível em: <https://www.gov.br/>. Acesso em: 03 maio 2026.
+
+NIELSEN, Jakob. Usability Engineering. Boston: Academic Press, 1993.
