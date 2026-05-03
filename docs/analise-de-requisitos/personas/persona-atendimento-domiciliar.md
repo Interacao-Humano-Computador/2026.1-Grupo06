@@ -87,4 +87,4 @@ CGI.BR / CETIC.BR. *TIC Domicílios 2024*. Disponível em: https://www.cgi.br/no
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |---|---|---|---|---|
-| 1.0 | 03/05/2026 | Criação da página | Felipe Henrique | |
+| `1.0` | 03/05/2026 | Criação da página | [Felipe Henrique](https://github.com/fhenrique77) | |
