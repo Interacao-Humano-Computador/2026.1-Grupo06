@@ -10,8 +10,10 @@ Para ser eficiente, cada persona deve conter elementos bem definidos: identidade
 
 ### Persona 2 — Ana Paula Ferreira
 
-![Foto da Ana Paula Ferreira](Ana_Paula_Ferreira.png)
-*Imagem 1: Imagem da Ana Paula Ferreira*
+![Persona Ana Paula Ferreira](../../assets/personas/Ana_Paula_Ferreira.png)
+
+Imagem 1: Imagem da Ana Paula Ferreira 
+
 
 
 | Atributo | Descrição |
