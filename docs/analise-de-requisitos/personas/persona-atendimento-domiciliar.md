@@ -12,7 +12,7 @@ Para ser eficiente, cada persona deve conter elementos bem definidos: identidade
 
 ![Persona Ana Paula Ferreira](../../assets/personas/Ana_Paula_Ferreira.png)
 
-Imagem 1: Imagem da Ana Paula Ferreira 
+Imagem 2: Imagem da Ana Paula Ferreira 
 
 
 
