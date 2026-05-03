@@ -14,9 +14,6 @@ Também foi identificado que a hierarquia visual da página não orienta de form
 
 Outro ponto observado é a forte dependência de leitura textual, o que pode dificultar o entendimento para usuários com menor nível de escolaridade.
 
-## Evidência
-
-![Página de inscrição para creche](../../assets/creche.png)
 
 ## Conclusão
 
