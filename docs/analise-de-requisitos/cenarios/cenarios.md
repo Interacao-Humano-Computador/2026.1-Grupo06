@@ -162,6 +162,19 @@ Exceção | - Dificuldade em encontrar informações específicas
 
 ---
 
+### C08: Realizar inscrição no PEBI
+
+| Elemento   | Descrição |
+| ---------- | --------- |
+| Objetivo   | Realizar a inscrição de um estudante do ensino médio no programa bilíngue |
+| Contexto   | - Local: em casa ou no trabalho <br> - Tempo: durante o período oficial de matrículas <br> - Pré-condições: acesso à internet, possuir dispositivo (smartphone ou computador) e ter os documentos digitalizados |
+| Recursos   | - Internet <br> - Navegador <br> - Sistema SEEDF <br> - Documentação digitalizada |
+| Ator       | Joana Silva — mãe e responsável legal (Persona Primária) |
+| Episódios  | - Joana acessa o portal e navega até a seção PEBI <br> - Joana seleciona uma das 4 unidades escolares disponíveis <br> - Joana insere os dados de identificação (RG/CPF) <br> - Joana realiza o upload dos 7 documentos obrigatórios <br> - O sistema fornece feedback de progresso durante o preenchimento <br> - Joana confirma a inscrição <br> - O sistema gera e exibe o protocolo de inscrição |
+| Restrições | - Escolha permitida de apenas uma unidade escolar <br> - Limite de tamanho para os arquivos enviados <br> - Limite de alunos por unidade|
+| Exceção    | - Falha na conexão com a internet <br> - Documentos ilegíveis ou fora do padrão exigido |
+
+
 ## Referências Bibliográficas
 
 > <a id="REF1">1.</a> Slides Requisitos - aula 10. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise.
@@ -179,5 +192,5 @@ Exceção | - Dificuldade em encontrar informações específicas
 | `1.2`  | 03/05/2026 | Criação da tabela C03 | [Luara Cristiana](https://github.com/luacristiana)|         |
 | `1.3`  | 03/05/2026 | Criação da tabela C04 | [Giulia Paulucci](https://github.com/GiuliaPaulucci)|         |
 | `1.4`  | 03/05/2026 | Criação da tabela C02 | [Joao Guilherme](https://github.com/JoaoGSantana10)|         |
-
+| `1.5`  | 02/05/2026 | Criação da tabela C08 | [Matheus](https://github.com/matheus-06)||
 
