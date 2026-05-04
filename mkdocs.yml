@@ -42,10 +42,13 @@ nav:
       - Aspectos Éticos: analise-de-requisitos/aspectos-eticos.md
       - Perfil de Usuário: 
         - Transferência Escolar: analise-de-requisitos/perfis/perfil-transferencia-matricula.md
+        - Matricula PEBI: analise-de-requisitos/perfis/perfil-matricula-PEBI.md
       - Personas: analise-de-requisitos/personas/personas.md
       - Cenarios: analise-de-requisitos/cenarios/cenarios.md
       - Analise de Tarefas: 
         - Transferência Escolar: analise-de-requisitos/analise-de-tarefas/transferencia-matricula.md
+        - Matricula PEBI: analise-de-requisitos/analise-de-tarefas/Matricula-PEBI.md
+
   - Verificação:
       - Verificação do Grupo:
           - Etapa 1:
