@@ -53,14 +53,14 @@ nav:
 
       - Personas:
           - Geral: analise-de-requisitos/personas/personas.md
-          - Creche: analise-de-requisitos/personas/persona-creche.md
+        
 
       - Cenarios: analise-de-requisitos/cenarios/cenarios.md
 
       - Analise de Tarefas:
           - Transferência Escolar: analise-de-requisitos/analise-de-tarefas/transferencia-matricula.md
           - Matricula PEBI: analise-de-requisitos/analise-de-tarefas/Matricula-PEBI.md
-
+          - Creche: analise-de-requisitos/analise-de-tarefas/analise-creche.md 
   - Verificação:
       - Verificação do Grupo:
           - Etapa 1:
