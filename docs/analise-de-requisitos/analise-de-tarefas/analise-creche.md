@@ -28,12 +28,15 @@ De acordo com estudos sobre o uso da internet no Brasil, embora a conectividade 
 
 Nesse contexto, a ausência de linguagem simplificada e de recursos visuais pode dificultar o entendimento das instruções e aumentar a probabilidade de erros durante o processo de inscrição.
 
-## Evidência
-
-![Página de inscrição para creche](../../assets/creche.png)
 ## Análise de Tarefas (HTA)
 
 A análise hierárquica de tarefas (HTA) foi utilizada para decompor o processo de solicitação de vaga em creche em etapas menores, facilitando a identificação de possíveis dificuldades enfrentadas pelo usuário.
+
+<p align="center">
+  <img src="../../assets/hta-creche.png" width="700"/>
+</p>
+
+<p align="center"><b>Figura X:</b> Diagrama de análise de tarefas para matrícula em creche.</p>
 
 ### Objetivo
 Solicitar vaga em creche pública.
