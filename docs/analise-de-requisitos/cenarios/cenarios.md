@@ -50,6 +50,23 @@ Os cenários identificados foram determinados levando em consideração a Person
 | Restrições | - O atestado médico deve conter explicitamente o período de afastamento do estudante<br>- A solicitação deve ser feita imediatamente após a emissão do atestado, pois o início do atendimento depende da data de entrega<br>- A interface deve ser navegável e funcional em dispositivos móveis, incluindo situações de conexão instável |
 | Exceção | - Atestado médico sem especificação do período de afastamento<br>- Falha no upload do documento pelo celular<br>- Sistema indisponível no momento do acesso<br>- Pedido indeferido pela escola ou pela Coordenação Regional por não atendimento aos critérios<br>- Falta de acesso à internet no ambiente hospitalar |
 
+
+### Cenário C03: Localização de Documentos e Unidades de Ensino Especial
+
+
+| Elemento | Descrição |
+| :--- | :--- |
+| **Objetivo** | Obter a lista completa de documentos exigidos e identificar o endereço de uma unidade de Educação Precoce para o filho com autismo. |
+| **Contexto** | **Local:** Residência da usuária, ambiente doméstico. <br> **Tempo:** Período vespertino, conciliando a busca com o cuidado de três filhos e os estudos universitários. <br> **Pré-condições:** Possuir acesso à internet e o diagnóstico médico (laudo) prévio do filho. |
+| **Recursos** | Computador desktop (utilizado para garantir maior segurança na navegação), navegador web e o portal oficial da SEEDF. |
+| **Ator** | **Tais:** Mãe, estudante de Biomedicina, cuidadora principal e usuária que busca eficiência tecnológica para otimizar seu tempo escasso. |
+| **Episódios** | 1. Tais acessa a página inicial da SEEDF e busca visualmente pelo termo "Matrícula". <br> 2. Diante da ausência de um botão direto, ela tenta decifrar o menu "Carta de Serviços", incerta se ali encontrará os documentos para o ensino especial. <br> 3. Ao selecionar a modalidade, Tais lê as informações para identificar quais laudos médicos específicos (além da documentação civil) são obrigatórios. <br> 4. Ela localiza a listagem de escolas que oferecem "Educação Precoce", mas percebe que o sistema exibe apenas os nomes das unidades, sem endereços ou links de localização. <br> 5. Frustrada pela interrupção da tarefa, Tais copia o nome da escola e abre uma nova aba no Google para buscar o endereço físico externamente. |
+| **Restrições** | O portal deve apresentar informações integradas; o endereço e telefone devem estar vinculados ao nome da unidade escolar para evitar que o usuário abandone o sistema. |
+| **Exceção** | 1. Falha de comunicabilidade: A usuária não entende o termo "Carta de Serviços". <br> 2. Ruptura de informação: O portal não fornece o endereço, impossibilitando a conclusão da tarefa de forma autônoma. <br> 3. Queda de conexão ou lentidão no carregamento das listas de escolas especializadas. |
+
+
+---
+
 ## Referências Bibliográficas
 
 > <a id="REF1">1.</a> Slides Requisitos - aula 10. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise.
@@ -64,3 +81,5 @@ Os cenários identificados foram determinados levando em consideração a Person
 | ------ | ---------- | --------------------- | -------------------------------------------- | ----------- |
 | `1.0`  | 03/05/2026 | Criação do documento  | [Ígor Veras](https://github.com/igorvdaniel) |             |
 | `1.1`  | 03/05/2026 | Criação da tabela C02 | [Felipe Henrique](https://github.com/fhenrique77)|         |
+| `1.2`  | 03/05/2026 | Criação da tabela C03 | [Luara Cristiana](https://github.com/luacristiana)|         |
+
