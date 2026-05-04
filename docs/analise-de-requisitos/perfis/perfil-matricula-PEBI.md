@@ -71,21 +71,9 @@ Com base nos dados coletados pode-se observar que é dado um alto valor a educa�
 
 ---
 
-## Análise de tarefas
-Para análise de tarefas liguada a funcionalidade de matricula no **Programa de Educação Bilíngue Intercultural (PEBI)** foram escolhidas a **Análise Hierárquica de Tarefas (HTA)** e **Árvore de Tarefas COncorrentes (CTT)**
-
-### Análise Hierárquica de Tarefas (HTA) 
-![HTA](../../assets/personas/HTA_Matheus.png)
-Fonte: [Matheus](https://github.com/matheus-06)
-
-### Árvore de Tarefas Concorrentes (CTT)
-![CTT](../../assets/personas/CTT_Matheus.png)
-Fonte: [Matheus](https://github.com/matheus-06)
-
----
-
 ## Formulário:
-<iframe src="../../assets/personas/Respostas_Questionario_IHC.pdf" width="100%" height="600px"></iframe>
+<iframe src="../../../assets/personas/Respostas_Questionario_IHC.pdf" width="100%" height="600px"></iframe>
+
 ---
 
 ## Referências Bibliográficas
@@ -94,6 +82,7 @@ Fonte: [Matheus](https://github.com/matheus-06)
 
 ## Histórico de versão
 
-| Versão | Data       | Descrição                                | Autor(es)                                                                                       | Revisor(es) |
+| Versão | Data       | Descrição | Autor(es)| Revisor(es) |
 | ------ | ---------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------- |
 | `1.0`  | 02/05/2026 | Criação da página                        | [Matheus](https://github.com/matheus-06)||
+|`1.1`| 03/05/2026 | Correção no PDF e separação das análises de tarefa|[Matheus](https://github.com/matheus-06)||
