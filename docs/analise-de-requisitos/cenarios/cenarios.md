@@ -38,6 +38,18 @@ Os cenários identificados foram determinados levando em consideração a Person
 | Restrições | - O pedido só pode ser feito para uma única unidade escolar <br> - O DEPROV deve estar dentro do prazo de validade de 30 dias <br> - A solicitação deve ser concluída até o dia 14 de novembro <br> - A interface deve ser navegável e funcional em dispositivos móveis |
 | Exceção    | - Falta de acesso à internet <br> - DEPROV vencido no momento do upload <br> - Ausência de vagas disponíveis na unidade desejada <br> - Falha no upload dos documentos <br> - Sistema indisponível fora do horário de pico |
 
+### C02: Solicitar Atendimento Domiciliar pelo sistema
+ 
+| Elemento | Descrição |
+|---|---|
+| Objetivo | Solicitar o atendimento pedagógico domiciliar para o filho impossibilitado de frequentar a escola por motivo de saúde |
+| Contexto | - Local: em casa ou em ambiente hospitalar, em Samambaia (DF)<br>- Tempo: durante o período de afastamento médico do estudante, logo após a emissão do atestado<br>- Pré-condições: ter acesso à internet, possuir smartphone, ter em mãos o atestado médico com o período de afastamento especificado e os documentos pessoais do estudante e do responsável |
+| Recursos | - Internet<br>- Smartphone<br>- Sistema de solicitação de Atendimento Domiciliar da SEEDF<br>- Atestado médico digitalizado<br>- Documentos pessoais do estudante e do responsável |
+| Ator | Ana Paula Ferreira — mãe e responsável legal do estudante |
+| Episódios | - Ana Paula acessa o sistema pelo smartphone e localiza a opção de solicitação de Atendimento Domiciliar<br>- O sistema exibe os critérios de elegibilidade e Ana Paula confirma que o filho se enquadra na situação prevista (tratamento de saúde prolongado com permanência em casa)<br>- O sistema orienta Ana Paula a entregar o atestado médico à direção da escola imediatamente, informando que o prazo de início do atendimento está vinculado à data de entrega do documento<br>- Ana Paula realiza o upload do atestado médico com o período de afastamento especificado<br>- Ana Paula preenche os dados do estudante e confirma a solicitação<br>- O sistema registra o pedido e exibe uma mensagem de confirmação com as próximas etapas do processo (análise pela escola e pela Coordenação Regional de Ensino)<br>- Ana Paula acompanha o andamento do pedido pelo sistema, sem precisar ligar para a secretaria escolar |
+| Restrições | - O atestado médico deve conter explicitamente o período de afastamento do estudante<br>- A solicitação deve ser feita imediatamente após a emissão do atestado, pois o início do atendimento depende da data de entrega<br>- A interface deve ser navegável e funcional em dispositivos móveis, incluindo situações de conexão instável |
+| Exceção | - Atestado médico sem especificação do período de afastamento<br>- Falha no upload do documento pelo celular<br>- Sistema indisponível no momento do acesso<br>- Pedido indeferido pela escola ou pela Coordenação Regional por não atendimento aos critérios<br>- Falta de acesso à internet no ambiente hospitalar |
+
 ## Referências Bibliográficas
 
 > <a id="REF1">1.</a> Slides Requisitos - aula 10. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise.
@@ -51,3 +63,4 @@ Os cenários identificados foram determinados levando em consideração a Person
 | Versão | Data       | Descrição             | Autor(es)                                    | Revisor(es) |
 | ------ | ---------- | --------------------- | -------------------------------------------- | ----------- |
 | `1.0`  | 03/05/2026 | Criação do documento  | [Ígor Veras](https://github.com/igorvdaniel) |             |
+| `1.1`  | 03/05/2026 | Criação da tabela C02 | [Felipe Henrique](https://github.com/fhenrique77)|         |
