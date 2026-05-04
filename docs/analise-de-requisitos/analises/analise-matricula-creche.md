@@ -31,7 +31,36 @@ Nesse contexto, a ausência de linguagem simplificada e de recursos visuais pode
 ## Evidência
 
 ![Página de inscrição para creche](../../assets/creche.png)
+## Análise de Tarefas (HTA)
 
+A análise hierárquica de tarefas (HTA) foi utilizada para decompor o processo de solicitação de vaga em creche em etapas menores, facilitando a identificação de possíveis dificuldades enfrentadas pelo usuário.
+
+### Objetivo
+Solicitar vaga em creche pública.
+
+### Decomposição da tarefa
+
+1. Acessar a página de matrícula  
+   1.1 Abrir navegador  
+   1.2 Acessar o site da SEEDF  
+
+2. Localizar a opção de creche  
+   2.1 Navegar pelo menu  
+   2.2 Identificar a categoria correta  
+
+3. Compreender as informações  
+   3.1 Ler as instruções disponíveis  
+   3.2 Identificar os canais de inscrição  
+
+4. Realizar a inscrição  
+   4.1 Escolher canal (telefone, site ou aplicativo)  
+   4.2 Seguir as orientações fornecidas  
+
+### Problemas identificados
+
+- Dificuldade na localização das informações  
+- Excesso de conteúdo textual  
+- Falta de orientação clara sobre o fluxo da tarefa  
 ## Conclusão
 
 A partir da análise realizada, conclui-se que, embora a página contenha as informações necessárias para a realização da matrícula, a forma como essas informações são apresentadas pode dificultar a experiência do usuário.
