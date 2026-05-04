@@ -50,9 +50,11 @@ nav:
           - Matricula PEBI: analise-de-requisitos/perfis/perfil-matricula-PEBI.md
           - Ensino especial: analise-de-requisitos/perfis/perfil-servico-especial.md
           - Creche: analise-de-requisitos/perfis/perfil-creches.md
+          - Painel Educacional: analise-de-requisitos/perfis/Perfil-painel-educacional.md
 
       - Personas:
           - Geral: analise-de-requisitos/personas/personas.md
+          - Painel Educacional: analise-de-requisitos/personas/persona-painel-educacional.md
         
 
       - Cenarios: analise-de-requisitos/cenarios/cenarios.md
