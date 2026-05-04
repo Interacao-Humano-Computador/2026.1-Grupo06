@@ -79,6 +79,89 @@ Os cenários identificados foram determinados levando em consideração a Person
 
 ---
 
+
+### C05: Verificar Informações de Matrícula pelo Sistema
+
+Elemento | Descrição
+---------|----------
+Objetivo | Consultar informações sobre matrícula escolar do filho
+Contexto | - Local: em casa, no Distrito Federal  
+- Tempo: durante o período de matrícula escolar  
+- Pré-condições: acesso à internet e dispositivo móvel
+Recursos | - Internet  
+- Smartphone  
+- Sistema da Secretaria de Educação  
+- Painel do Usuário Educacional
+Ator | Ana Souza — responsável legal pelo estudante
+Episódios | - Ana acessa o sistema pelo smartphone  
+- Realiza login no Painel do Usuário Educacional  
+- Visualiza as opções principais do sistema  
+- Seleciona a opção de matrícula  
+- Acessa as informações de forma direta  
+- Conclui a tarefa sem precisar navegar por várias páginas
+Restrições | - Necessidade de acesso à internet  
+- Interface deve ser adaptada para dispositivos móveis  
+- Sistema deve apresentar informações claras e organizadas
+Exceção | - Falha no acesso ao sistema  
+- Lentidão na conexão  
+- Informações não disponíveis ou desatualizadas  
+
+---
+
+### C06: Consultar Avisos Escolares pelo Sistema
+
+Elemento | Descrição
+---------|----------
+Objetivo | Verificar avisos e comunicados escolares importantes
+Contexto | - Local: em qualquer ambiente com acesso à internet  
+- Tempo: a qualquer momento, conforme necessidade  
+- Pré-condições: possuir acesso ao sistema
+Recursos | - Internet  
+- Smartphone  
+- Sistema da Secretaria de Educação  
+- Painel do Usuário Educacional
+Ator | João Pereira — estudante da rede pública
+Episódios | - João acessa o sistema pelo celular  
+- Realiza login no Painel do Usuário Educacional  
+- Visualiza a área de avisos e comunicados  
+- Seleciona os avisos mais recentes  
+- Obtém rapidamente as informações desejadas
+Restrições | - Interface deve ser rápida e responsiva  
+- Informações devem ser atualizadas constantemente  
+- Layout deve facilitar leitura em dispositivos móveis
+Exceção | - Sistema fora do ar  
+- Avisos não atualizados  
+- Falha na exibição das informações  
+
+---
+
+### C07: Acessar Informações Institucionais pelo Sistema
+
+Elemento | Descrição
+---------|----------
+Objetivo | Acessar informações institucionais e administrativas
+Contexto | - Local: ambiente de trabalho ou casa  
+- Tempo: durante atividades profissionais  
+- Pré-condições: acesso ao sistema
+Recursos | - Internet  
+- Computador ou smartphone  
+- Sistema da Secretaria de Educação  
+- Painel do Usuário Educacional
+Ator | Carlos Mendes — professor da rede pública
+Episódios | - Carlos acessa o sistema  
+- Realiza login no Painel do Usuário Educacional  
+- Navega pelas opções organizadas  
+- Localiza rapidamente informações institucionais  
+- Utiliza as informações para suas atividades profissionais
+Restrições | - Sistema deve ser estável  
+- Informações devem ser bem organizadas  
+- A navegação deve ser intuitiva
+Exceção | - Dificuldade em encontrar informações específicas  
+- Sistema indisponível  
+- Falhas na navegação  
+
+---
+
 ## Referências Bibliográficas
 
 > <a id="REF1">1.</a> Slides Requisitos - aula 10. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise.
@@ -95,5 +178,6 @@ Os cenários identificados foram determinados levando em consideração a Person
 | `1.1`  | 03/05/2026 | Criação da tabela C02 | [Felipe Henrique](https://github.com/fhenrique77)|         |
 | `1.2`  | 03/05/2026 | Criação da tabela C03 | [Luara Cristiana](https://github.com/luacristiana)|         |
 | `1.3`  | 03/05/2026 | Criação da tabela C04 | [Giulia Paulucci](https://github.com/GiuliaPaulucci)|         |
+| `1.4`  | 03/05/2026 | Criação da tabela C02 | [Joao Guilherme](https://github.com/JoaoGSantana10)|         |
 
 
