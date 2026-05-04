@@ -217,3 +217,7 @@ IBGE. Pesquisa Nacional por Amostra de Domicílios Contínua (PNAD Contínua): A
 BRASIL. Governo Federal. Serviços Públicos Digitais. Disponível em: <https://www.gov.br/>. Acesso em: 03 maio 2026.
 
 NIELSEN, Jakob. Usability Engineering. Boston: Academic Press, 1993.
+
+ Versão | Data | Descrição | Autor(es) | Revisor(es) |
+|---|---|---|---|---|
+| `1.0` | 03/05/2026 | Criação da página | [Joao Guilherme](https://github.com/JoaoGSantana10) | |
