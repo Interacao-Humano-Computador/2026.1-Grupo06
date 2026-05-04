@@ -65,6 +65,18 @@ Os cenários identificados foram determinados levando em consideração a Person
 | **Exceção** | 1. Falha de comunicabilidade: A usuária não entende o termo "Carta de Serviços". <br> 2. Ruptura de informação: O portal não fornece o endereço, impossibilitando a conclusão da tarefa de forma autônoma. <br> 3. Queda de conexão ou lentidão no carregamento das listas de escolas especializadas. |
 
 
+### C04: Solicitação de vaga em creche pelo sistema
+
+| Elemento   | Descrição |
+| ---------- | --------- |
+| Objetivo   | Solicitar vaga em creche pública para o filho |
+| Contexto   | - Local: em casa, no Distrito Federal <br> - Tempo: durante o período de inscrição <br> - Pré-condições: possuir acesso à internet, smartphone e documentos do responsável e da criança |
+| Recursos   | - Internet <br> - Smartphone <br> - Página de matrícula da SEEDF <br> - Documentos pessoais |
+| Ator       | Maria Aparecida — mãe e responsável legal |
+| Episódios  | - Maria acessa o site da Secretaria de Educação pelo celular <br> - Maria localiza a seção de matrícula em creche <br> - Maria lê as informações disponíveis, mas encontra dificuldade devido à quantidade de texto <br> - Maria observa diferentes canais de inscrição (telefone, site e aplicativo) e fica em dúvida sobre qual escolher <br> - Maria tenta entender os próximos passos, mas precisa reler as informações <br> - Maria decide realizar a inscrição pelo canal que considera mais simples |
+| Restrições | - Necessidade de acesso à internet <br> - Interface deve funcionar em dispositivos móveis <br> - Usuário deve compreender as instruções apresentadas |
+| Exceção    | - Dificuldade de compreensão das informações <br> - Insegurança na escolha do canal de inscrição <br> - Falta de clareza no processo <br> - Abandono da tarefa devido à confusão |
+
 ---
 
 ## Referências Bibliográficas
@@ -82,4 +94,6 @@ Os cenários identificados foram determinados levando em consideração a Person
 | `1.0`  | 03/05/2026 | Criação do documento  | [Ígor Veras](https://github.com/igorvdaniel) |             |
 | `1.1`  | 03/05/2026 | Criação da tabela C02 | [Felipe Henrique](https://github.com/fhenrique77)|         |
 | `1.2`  | 03/05/2026 | Criação da tabela C03 | [Luara Cristiana](https://github.com/luacristiana)|         |
+| `1.3`  | 03/05/2026 | Criação da tabela C04 | [Giulia Paulucci](https://github.com/GiuliaPaulucci)|         |
+
 
