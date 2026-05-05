@@ -11,7 +11,6 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.details
   - pymdownx.superfences
-  - attr_list
   - tables
   - pymdownx.tasklist:
       custom_checkbox: true
@@ -24,13 +23,17 @@ plugins:
   - glightbox
 
 site_name: Serviços de Matrícula DF
+
 nav:
   - Home: index.md
+
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
+
   - Reuniões:
       - Heatmap: reunioes/heatmap.md
       - Reunião 1: reunioes/reuniao_1.md
+
   - Planejamento:
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/ferramentas.md
@@ -38,14 +41,29 @@ nav:
       - Sites avaliados: planejamento/sites-avaliados.md
       - Site escolhido: planejamento/site-escolhido.md
       - Processo design: planejamento/processo-design.md
-  -  Análise de Requisitos:
+      
+      
+  - Análise de Requisitos:
       - Aspectos Éticos: analise-de-requisitos/aspectos-eticos.md
-      - Perfil de Usuário: 
-        - Transferência Escolar: analise-de-requisitos/perfis/perfil-transferencia-matricula.md
-      - Personas: analise-de-requisitos/personas/personas.md
+
+      - Perfil de Usuário:
+          - Transferência Escolar: analise-de-requisitos/perfis/perfil-transferencia-matricula.md
+          - Matricula PEBI: analise-de-requisitos/perfis/perfil-matricula-PEBI.md
+          - Ensino especial: analise-de-requisitos/perfis/perfil-servico-especial.md
+          - Creche: analise-de-requisitos/perfis/perfil-creches.md
+          - Painel Educacional: analise-de-requisitos/perfis/Perfil-painel-educacional.md
+          - Atendimento Domiciliar: analise-de-requisitos/perfis/perfil-atendimento-domiciliar.md
+      - Personas:
+          - Geral: analise-de-requisitos/personas/personas.md
+          - Painel Educacional: analise-de-requisitos/personas/persona-painel-educacional.md
+        
+
       - Cenarios: analise-de-requisitos/cenarios/cenarios.md
-      - Analise de Tarefas: 
-        - Transferência Escolar: analise-de-requisitos/analise-de-tarefas/transferencia-matricula.md
+
+      - Analise de Tarefas:
+          - Transferência Escolar: analise-de-requisitos/analise-de-tarefas/transferencia-matricula.md
+          - Matricula PEBI: analise-de-requisitos/analise-de-tarefas/Matricula-PEBI.md
+          - Creche: analise-de-requisitos/analise-de-tarefas/analise-creche.md 
   - Verificação:
       - Verificação do Grupo:
           - Etapa 1:
@@ -63,6 +81,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
     - navigation.footer
+
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -71,6 +90,7 @@ theme:
       toggle:
         icon: material/circle-half-full
         name: Mudar para o modo escuro
+
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: teal
