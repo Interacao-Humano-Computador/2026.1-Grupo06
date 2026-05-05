@@ -16,6 +16,8 @@ A lista de verificação encontra-se descrita nas tabelas 1, 2 e 3, e em formato
 | Questão | Resposta | Versão, Data e hora da avaliação |
 |--------|----------|----------------------------------|
 | Todos os 11 itens. | Incompleto – faltou alguns itens | 04/05/2026 - 21:47 |
+
+
 <font size="3"><p style="text-align: center"><b>Tabela 1</b></p></font>
 
 ### Itens do Conteúdo da Disciplina
@@ -34,6 +36,8 @@ A lista de verificação encontra-se descrita nas tabelas 1, 2 e 3, e em formato
 | 10 | A Análise de tarefas? | Incompleto – CTT não carregou a fig. 2. Não foi encontrada a análise de tarefa 3 | 04/05/2026 - 21:41 |
 | 11 | Uma atividade para cada integrante do grupo modelizada em ao menos duas técnicas para especificar as tarefas (HTA e GOMS)? | Incompleto – falta de duas técnicas por pessoa | 04/05/2026 - 21:42 |
 | 12 | Utilizaram alguma técnica para especificar as tarefas? | Incompleto – faltou um participante | 04/05/2026 - 21:45 |
+
+
 <font size="3"><p style="text-align: center"><b>Tabela 2</b></p></font>
 
 ### Observação Importante
@@ -41,6 +45,8 @@ A lista de verificação encontra-se descrita nas tabelas 1, 2 e 3, e em formato
 | Critério | Resposta | Versão, Data e hora da avaliação |
 |---------|----------|----------------------------------|
 | Cada integrante da equipe deve elaborar ao menos 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. | Incompleto – foto do texto da referência | 04/05/2026 - 21:46 |
+
+
 <font size="3"><p style="text-align: center"><b>Tabela 3</b></p></font>
 
 ## Histórico de Versões
